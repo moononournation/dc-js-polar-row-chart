@@ -1,0 +1,5617 @@
+Sex,WorkingAge,FieldOfEducation,EducationalAttainment,Population
+Male,15 - 19,Secondary and below,No schooling,-
+,,,Pre-primary,31
+,,,Primary,1012
+,,,Lower secondary,11770
+,,,Upper secondary,8682
+,,,Matriculation (including Technician level),215
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,21710
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,36
+,,,Post-secondary: Diploma/ Certificate,364
+,,,Post-secondary: Sub-degree course,153
+,,,Post-secondary: Degree course,265
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,818
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,108
+,,,Post-secondary: Sub-degree course,30
+,,,Post-secondary: Degree course,88
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,226
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,17
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,17
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,473
+,,,Post-secondary: Sub-degree course,170
+,,,Post-secondary: Degree course,474
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,1117
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,172
+,,,Post-secondary: Sub-degree course,142
+,,,Post-secondary: Degree course,77
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,391
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,117
+,,,Post-secondary: Sub-degree course,21
+,,,Post-secondary: Degree course,42
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,180
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,30
+,,,Post-secondary: Diploma/ Certificate,221
+,,,Post-secondary: Sub-degree course,116
+,,,Post-secondary: Degree course,140
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,507
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,34
+,,,Post-secondary: Diploma/ Certificate,293
+,,,Post-secondary: Sub-degree course,145
+,,,Post-secondary: Degree course,134
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,606
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,13
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,13
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,107
+,,,Post-secondary: Diploma/ Certificate,341
+,,,Post-secondary: Sub-degree course,152
+,,,Post-secondary: Degree course,50
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,650
+,,No schooling,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,-
+,,Sub-Total,No schooling,-
+,,,Pre-primary,31
+,,,Primary,1012
+,,,Lower secondary,11770
+,,,Upper secondary,8682
+,,,Matriculation (including Technician level),215
+,,,Craft level education,207
+,,,Post-secondary: Diploma/ Certificate,2106
+,,,Post-secondary: Sub-degree course,929
+,,,Post-secondary: Degree course,1283
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,26235
+,20 - 24,Secondary and below,No schooling,-
+,,,Pre-primary,105
+,,,Primary,1937
+,,,Lower secondary,12078
+,,,Upper secondary,38452
+,,,Matriculation (including Technician level),3522
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,56094
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,22
+,,,Post-secondary: Diploma/ Certificate,2239
+,,,Post-secondary: Sub-degree course,2179
+,,,Post-secondary: Degree course,3902
+,,,Post-secondary: Post-graduate,278
+,,,Sub-Total,8620
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,743
+,,,Post-secondary: Sub-degree course,584
+,,,Post-secondary: Degree course,3084
+,,,Post-secondary: Post-graduate,180
+,,,Sub-Total,4591
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,406
+,,,Post-secondary: Sub-degree course,208
+,,,Post-secondary: Degree course,365
+,,,Post-secondary: Post-graduate,79
+,,,Sub-Total,1058
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,7
+,,,Post-secondary: Diploma/ Certificate,4261
+,,,Post-secondary: Sub-degree course,3042
+,,,Post-secondary: Degree course,11119
+,,,Post-secondary: Post-graduate,439
+,,,Sub-Total,18868
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,67
+,,,Post-secondary: Diploma/ Certificate,2133
+,,,Post-secondary: Sub-degree course,1515
+,,,Post-secondary: Degree course,2886
+,,,Post-secondary: Post-graduate,158
+,,,Sub-Total,6759
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,802
+,,,Post-secondary: Sub-degree course,455
+,,,Post-secondary: Degree course,1186
+,,,Post-secondary: Post-graduate,21
+,,,Sub-Total,2464
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,221
+,,,Post-secondary: Diploma/ Certificate,2713
+,,,Post-secondary: Sub-degree course,2278
+,,,Post-secondary: Degree course,3263
+,,,Post-secondary: Post-graduate,201
+,,,Sub-Total,8676
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,246
+,,,Post-secondary: Diploma/ Certificate,3085
+,,,Post-secondary: Sub-degree course,1494
+,,,Post-secondary: Degree course,2881
+,,,Post-secondary: Post-graduate,170
+,,,Sub-Total,7876
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,191
+,,,Post-secondary: Sub-degree course,86
+,,,Post-secondary: Degree course,78
+,,,Post-secondary: Post-graduate,31
+,,,Sub-Total,386
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,429
+,,,Post-secondary: Diploma/ Certificate,2138
+,,,Post-secondary: Sub-degree course,1675
+,,,Post-secondary: Degree course,2330
+,,,Post-secondary: Post-graduate,182
+,,,Sub-Total,6754
+,,No schooling,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,-
+,,Sub-Total,No schooling,-
+,,,Pre-primary,105
+,,,Primary,1937
+,,,Lower secondary,12078
+,,,Upper secondary,38452
+,,,Matriculation (including Technician level),3522
+,,,Craft level education,992
+,,,Post-secondary: Diploma/ Certificate,18711
+,,,Post-secondary: Sub-degree course,13516
+,,,Post-secondary: Degree course,31094
+,,,Post-secondary: Post-graduate,1739
+,,,Sub-Total,122146
+,25 - 29,Secondary and below,No schooling,-
+,,,Pre-primary,241
+,,,Primary,3333
+,,,Lower secondary,16493
+,,,Upper secondary,40515
+,,,Matriculation (including Technician level),7534
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,68116
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,74
+,,,Post-secondary: Diploma/ Certificate,2991
+,,,Post-secondary: Sub-degree course,2658
+,,,Post-secondary: Degree course,10447
+,,,Post-secondary: Post-graduate,2018
+,,,Sub-Total,18188
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,19
+,,,Post-secondary: Diploma/ Certificate,833
+,,,Post-secondary: Sub-degree course,738
+,,,Post-secondary: Degree course,6684
+,,,Post-secondary: Post-graduate,1624
+,,,Sub-Total,9898
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,462
+,,,Post-secondary: Sub-degree course,272
+,,,Post-secondary: Degree course,1250
+,,,Post-secondary: Post-graduate,447
+,,,Sub-Total,2431
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,52
+,,,Post-secondary: Diploma/ Certificate,5896
+,,,Post-secondary: Sub-degree course,4216
+,,,Post-secondary: Degree course,26625
+,,,Post-secondary: Post-graduate,3478
+,,,Sub-Total,40267
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,63
+,,,Post-secondary: Diploma/ Certificate,3061
+,,,Post-secondary: Sub-degree course,2090
+,,,Post-secondary: Degree course,6684
+,,,Post-secondary: Post-graduate,1220
+,,,Sub-Total,13118
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,822
+,,,Post-secondary: Sub-degree course,568
+,,,Post-secondary: Degree course,2892
+,,,Post-secondary: Post-graduate,451
+,,,Sub-Total,4733
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,193
+,,,Post-secondary: Diploma/ Certificate,2652
+,,,Post-secondary: Sub-degree course,1805
+,,,Post-secondary: Degree course,5995
+,,,Post-secondary: Post-graduate,1964
+,,,Sub-Total,12609
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,191
+,,,Post-secondary: Diploma/ Certificate,2616
+,,,Post-secondary: Sub-degree course,1940
+,,,Post-secondary: Degree course,6802
+,,,Post-secondary: Post-graduate,1222
+,,,Sub-Total,12771
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,47
+,,,Post-secondary: Diploma/ Certificate,302
+,,,Post-secondary: Sub-degree course,236
+,,,Post-secondary: Degree course,431
+,,,Post-secondary: Post-graduate,45
+,,,Sub-Total,1061
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,383
+,,,Post-secondary: Diploma/ Certificate,2004
+,,,Post-secondary: Sub-degree course,1283
+,,,Post-secondary: Degree course,4512
+,,,Post-secondary: Post-graduate,1096
+,,,Sub-Total,9278
+,,No schooling,No schooling,30
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,30
+,,Sub-Total,No schooling,30
+,,,Pre-primary,241
+,,,Primary,3333
+,,,Lower secondary,16493
+,,,Upper secondary,40515
+,,,Matriculation (including Technician level),7534
+,,,Craft level education,1022
+,,,Post-secondary: Diploma/ Certificate,21639
+,,,Post-secondary: Sub-degree course,15806
+,,,Post-secondary: Degree course,72322
+,,,Post-secondary: Post-graduate,13565
+,,,Sub-Total,192500
+,30 - 34,Secondary and below,No schooling,-
+,,,Pre-primary,452
+,,,Primary,5148
+,,,Lower secondary,21660
+,,,Upper secondary,50140
+,,,Matriculation (including Technician level),7242
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,84642
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,162
+,,,Post-secondary: Diploma/ Certificate,2393
+,,,Post-secondary: Sub-degree course,2054
+,,,Post-secondary: Degree course,8052
+,,,Post-secondary: Post-graduate,3517
+,,,Sub-Total,16178
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,37
+,,,Post-secondary: Diploma/ Certificate,707
+,,,Post-secondary: Sub-degree course,322
+,,,Post-secondary: Degree course,4991
+,,,Post-secondary: Post-graduate,2571
+,,,Sub-Total,8628
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,378
+,,,Post-secondary: Sub-degree course,369
+,,,Post-secondary: Degree course,1293
+,,,Post-secondary: Post-graduate,914
+,,,Sub-Total,2954
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,10
+,,,Post-secondary: Diploma/ Certificate,4457
+,,,Post-secondary: Sub-degree course,3169
+,,,Post-secondary: Degree course,23240
+,,,Post-secondary: Post-graduate,6326
+,,,Sub-Total,37202
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,70
+,,,Post-secondary: Diploma/ Certificate,2902
+,,,Post-secondary: Sub-degree course,2187
+,,,Post-secondary: Degree course,8937
+,,,Post-secondary: Post-graduate,2693
+,,,Sub-Total,16789
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,551
+,,,Post-secondary: Sub-degree course,229
+,,,Post-secondary: Degree course,1863
+,,,Post-secondary: Post-graduate,893
+,,,Sub-Total,3536
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,296
+,,,Post-secondary: Diploma/ Certificate,2692
+,,,Post-secondary: Sub-degree course,1612
+,,,Post-secondary: Degree course,6908
+,,,Post-secondary: Post-graduate,2647
+,,,Sub-Total,14155
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,356
+,,,Post-secondary: Diploma/ Certificate,2702
+,,,Post-secondary: Sub-degree course,1772
+,,,Post-secondary: Degree course,6561
+,,,Post-secondary: Post-graduate,2715
+,,,Sub-Total,14106
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,308
+,,,Post-secondary: Sub-degree course,252
+,,,Post-secondary: Degree course,446
+,,,Post-secondary: Post-graduate,112
+,,,Sub-Total,1118
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,379
+,,,Post-secondary: Diploma/ Certificate,1217
+,,,Post-secondary: Sub-degree course,1194
+,,,Post-secondary: Degree course,3646
+,,,Post-secondary: Post-graduate,1885
+,,,Sub-Total,8321
+,,No schooling,No schooling,20
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,20
+,,Sub-Total,No schooling,20
+,,,Pre-primary,452
+,,,Primary,5148
+,,,Lower secondary,21660
+,,,Upper secondary,50140
+,,,Matriculation (including Technician level),7242
+,,,Craft level education,1310
+,,,Post-secondary: Diploma/ Certificate,18307
+,,,Post-secondary: Sub-degree course,13160
+,,,Post-secondary: Degree course,65937
+,,,Post-secondary: Post-graduate,24273
+,,,Sub-Total,207649
+,35 - 39,Secondary and below,No schooling,-
+,,,Pre-primary,736
+,,,Primary,8646
+,,,Lower secondary,29238
+,,,Upper secondary,48062
+,,,Matriculation (including Technician level),8680
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,95362
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,108
+,,,Post-secondary: Diploma/ Certificate,1595
+,,,Post-secondary: Sub-degree course,1304
+,,,Post-secondary: Degree course,6020
+,,,Post-secondary: Post-graduate,2916
+,,,Sub-Total,11943
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,465
+,,,Post-secondary: Sub-degree course,354
+,,,Post-secondary: Degree course,3761
+,,,Post-secondary: Post-graduate,2033
+,,,Sub-Total,6613
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,323
+,,,Post-secondary: Sub-degree course,151
+,,,Post-secondary: Degree course,995
+,,,Post-secondary: Post-graduate,989
+,,,Sub-Total,2458
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,40
+,,,Post-secondary: Diploma/ Certificate,3284
+,,,Post-secondary: Sub-degree course,2042
+,,,Post-secondary: Degree course,17105
+,,,Post-secondary: Post-graduate,7432
+,,,Sub-Total,29903
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,28
+,,,Post-secondary: Diploma/ Certificate,2164
+,,,Post-secondary: Sub-degree course,1547
+,,,Post-secondary: Degree course,10710
+,,,Post-secondary: Post-graduate,3213
+,,,Sub-Total,17662
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,340
+,,,Post-secondary: Sub-degree course,202
+,,,Post-secondary: Degree course,1465
+,,,Post-secondary: Post-graduate,1122
+,,,Sub-Total,3129
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,355
+,,,Post-secondary: Diploma/ Certificate,2668
+,,,Post-secondary: Sub-degree course,1670
+,,,Post-secondary: Degree course,6002
+,,,Post-secondary: Post-graduate,2805
+,,,Sub-Total,13500
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,491
+,,,Post-secondary: Diploma/ Certificate,3169
+,,,Post-secondary: Sub-degree course,1934
+,,,Post-secondary: Degree course,7114
+,,,Post-secondary: Post-graduate,3187
+,,,Sub-Total,15895
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,10
+,,,Post-secondary: Diploma/ Certificate,417
+,,,Post-secondary: Sub-degree course,286
+,,,Post-secondary: Degree course,503
+,,,Post-secondary: Post-graduate,122
+,,,Sub-Total,1338
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,369
+,,,Post-secondary: Diploma/ Certificate,1086
+,,,Post-secondary: Sub-degree course,699
+,,,Post-secondary: Degree course,2401
+,,,Post-secondary: Post-graduate,1703
+,,,Sub-Total,6258
+,,No schooling,No schooling,51
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,51
+,,Sub-Total,No schooling,51
+,,,Pre-primary,736
+,,,Primary,8646
+,,,Lower secondary,29238
+,,,Upper secondary,48062
+,,,Matriculation (including Technician level),8680
+,,,Craft level education,1401
+,,,Post-secondary: Diploma/ Certificate,15511
+,,,Post-secondary: Sub-degree course,10189
+,,,Post-secondary: Degree course,56076
+,,,Post-secondary: Post-graduate,25522
+,,,Sub-Total,204112
+,40 - 44,Secondary and below,No schooling,-
+,,,Pre-primary,2202
+,,,Primary,14701
+,,,Lower secondary,41539
+,,,Upper secondary,51039
+,,,Matriculation (including Technician level),7211
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,116692
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,114
+,,,Post-secondary: Diploma/ Certificate,1302
+,,,Post-secondary: Sub-degree course,1070
+,,,Post-secondary: Degree course,4968
+,,,Post-secondary: Post-graduate,2142
+,,,Sub-Total,9596
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,13
+,,,Post-secondary: Diploma/ Certificate,522
+,,,Post-secondary: Sub-degree course,363
+,,,Post-secondary: Degree course,3861
+,,,Post-secondary: Post-graduate,1843
+,,,Sub-Total,6602
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,252
+,,,Post-secondary: Sub-degree course,259
+,,,Post-secondary: Degree course,864
+,,,Post-secondary: Post-graduate,731
+,,,Sub-Total,2106
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,2979
+,,,Post-secondary: Sub-degree course,1973
+,,,Post-secondary: Degree course,13311
+,,,Post-secondary: Post-graduate,7859
+,,,Sub-Total,26122
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,48
+,,,Post-secondary: Diploma/ Certificate,1463
+,,,Post-secondary: Sub-degree course,1157
+,,,Post-secondary: Degree course,7204
+,,,Post-secondary: Post-graduate,3063
+,,,Sub-Total,12935
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,323
+,,,Post-secondary: Sub-degree course,198
+,,,Post-secondary: Degree course,1273
+,,,Post-secondary: Post-graduate,751
+,,,Sub-Total,2545
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,179
+,,,Post-secondary: Diploma/ Certificate,2352
+,,,Post-secondary: Sub-degree course,1390
+,,,Post-secondary: Degree course,4904
+,,,Post-secondary: Post-graduate,2463
+,,,Sub-Total,11288
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,711
+,,,Post-secondary: Diploma/ Certificate,2840
+,,,Post-secondary: Sub-degree course,1882
+,,,Post-secondary: Degree course,6503
+,,,Post-secondary: Post-graduate,2668
+,,,Sub-Total,14604
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,25
+,,,Post-secondary: Diploma/ Certificate,252
+,,,Post-secondary: Sub-degree course,213
+,,,Post-secondary: Degree course,435
+,,,Post-secondary: Post-graduate,97
+,,,Sub-Total,1022
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,281
+,,,Post-secondary: Diploma/ Certificate,818
+,,,Post-secondary: Sub-degree course,645
+,,,Post-secondary: Degree course,2232
+,,,Post-secondary: Post-graduate,1342
+,,,Sub-Total,5318
+,,No schooling,No schooling,91
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,91
+,,Sub-Total,No schooling,91
+,,,Pre-primary,2202
+,,,Primary,14701
+,,,Lower secondary,41539
+,,,Upper secondary,51039
+,,,Matriculation (including Technician level),7211
+,,,Craft level education,1371
+,,,Post-secondary: Diploma/ Certificate,13103
+,,,Post-secondary: Sub-degree course,9150
+,,,Post-secondary: Degree course,45555
+,,,Post-secondary: Post-graduate,22959
+,,,Sub-Total,208921
+,45 - 49,Secondary and below,No schooling,-
+,,,Pre-primary,3836
+,,,Primary,19719
+,,,Lower secondary,44189
+,,,Upper secondary,55213
+,,,Matriculation (including Technician level),7264
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,130221
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,144
+,,,Post-secondary: Diploma/ Certificate,1173
+,,,Post-secondary: Sub-degree course,837
+,,,Post-secondary: Degree course,4340
+,,,Post-secondary: Post-graduate,2045
+,,,Sub-Total,8539
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,536
+,,,Post-secondary: Sub-degree course,313
+,,,Post-secondary: Degree course,2670
+,,,Post-secondary: Post-graduate,1597
+,,,Sub-Total,5116
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,283
+,,,Post-secondary: Sub-degree course,131
+,,,Post-secondary: Degree course,721
+,,,Post-secondary: Post-graduate,755
+,,,Sub-Total,1890
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,47
+,,,Post-secondary: Diploma/ Certificate,2896
+,,,Post-secondary: Sub-degree course,1678
+,,,Post-secondary: Degree course,11275
+,,,Post-secondary: Post-graduate,7664
+,,,Sub-Total,23560
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,32
+,,,Post-secondary: Diploma/ Certificate,1358
+,,,Post-secondary: Sub-degree course,784
+,,,Post-secondary: Degree course,4659
+,,,Post-secondary: Post-graduate,2028
+,,,Sub-Total,8861
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,364
+,,,Post-secondary: Sub-degree course,232
+,,,Post-secondary: Degree course,1512
+,,,Post-secondary: Post-graduate,810
+,,,Sub-Total,2918
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,205
+,,,Post-secondary: Diploma/ Certificate,1567
+,,,Post-secondary: Sub-degree course,1001
+,,,Post-secondary: Degree course,3812
+,,,Post-secondary: Post-graduate,1294
+,,,Sub-Total,7879
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,696
+,,,Post-secondary: Diploma/ Certificate,3143
+,,,Post-secondary: Sub-degree course,1827
+,,,Post-secondary: Degree course,5448
+,,,Post-secondary: Post-graduate,2413
+,,,Sub-Total,13527
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,153
+,,,Post-secondary: Diploma/ Certificate,411
+,,,Post-secondary: Sub-degree course,377
+,,,Post-secondary: Degree course,540
+,,,Post-secondary: Post-graduate,103
+,,,Sub-Total,1584
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,368
+,,,Post-secondary: Diploma/ Certificate,718
+,,,Post-secondary: Sub-degree course,423
+,,,Post-secondary: Degree course,1694
+,,,Post-secondary: Post-graduate,1133
+,,,Sub-Total,4336
+,,No schooling,No schooling,179
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,179
+,,Sub-Total,No schooling,179
+,,,Pre-primary,3836
+,,,Primary,19719
+,,,Lower secondary,44189
+,,,Upper secondary,55213
+,,,Matriculation (including Technician level),7264
+,,,Craft level education,1645
+,,,Post-secondary: Diploma/ Certificate,12449
+,,,Post-secondary: Sub-degree course,7603
+,,,Post-secondary: Degree course,36671
+,,,Post-secondary: Post-graduate,19842
+,,,Sub-Total,208610
+,50 - 54,Secondary and below,No schooling,-
+,,,Pre-primary,7532
+,,,Primary,35512
+,,,Lower secondary,49761
+,,,Upper secondary,66247
+,,,Matriculation (including Technician level),11473
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,170525
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,79
+,,,Post-secondary: Diploma/ Certificate,1352
+,,,Post-secondary: Sub-degree course,632
+,,,Post-secondary: Degree course,4108
+,,,Post-secondary: Post-graduate,2410
+,,,Sub-Total,8581
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,9
+,,,Post-secondary: Diploma/ Certificate,417
+,,,Post-secondary: Sub-degree course,312
+,,,Post-secondary: Degree course,2576
+,,,Post-secondary: Post-graduate,1135
+,,,Sub-Total,4449
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,446
+,,,Post-secondary: Sub-degree course,169
+,,,Post-secondary: Degree course,736
+,,,Post-secondary: Post-graduate,639
+,,,Sub-Total,1990
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,3312
+,,,Post-secondary: Sub-degree course,2269
+,,,Post-secondary: Degree course,9514
+,,,Post-secondary: Post-graduate,6596
+,,,Sub-Total,21691
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,69
+,,,Post-secondary: Diploma/ Certificate,803
+,,,Post-secondary: Sub-degree course,648
+,,,Post-secondary: Degree course,3721
+,,,Post-secondary: Post-graduate,1281
+,,,Sub-Total,6522
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,591
+,,,Post-secondary: Sub-degree course,250
+,,,Post-secondary: Degree course,1336
+,,,Post-secondary: Post-graduate,942
+,,,Sub-Total,3119
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,276
+,,,Post-secondary: Diploma/ Certificate,2245
+,,,Post-secondary: Sub-degree course,1012
+,,,Post-secondary: Degree course,3245
+,,,Post-secondary: Post-graduate,1290
+,,,Sub-Total,8068
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,1037
+,,,Post-secondary: Diploma/ Certificate,3161
+,,,Post-secondary: Sub-degree course,2269
+,,,Post-secondary: Degree course,4341
+,,,Post-secondary: Post-graduate,1711
+,,,Sub-Total,12519
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,95
+,,,Post-secondary: Diploma/ Certificate,587
+,,,Post-secondary: Sub-degree course,547
+,,,Post-secondary: Degree course,441
+,,,Post-secondary: Post-graduate,269
+,,,Sub-Total,1939
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,235
+,,,Post-secondary: Diploma/ Certificate,734
+,,,Post-secondary: Sub-degree course,658
+,,,Post-secondary: Degree course,2137
+,,,Post-secondary: Post-graduate,1242
+,,,Sub-Total,5006
+,,No schooling,No schooling,3426
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,3426
+,,Sub-Total,No schooling,3426
+,,,Pre-primary,7532
+,,,Primary,35512
+,,,Lower secondary,49761
+,,,Upper secondary,66247
+,,,Matriculation (including Technician level),11473
+,,,Craft level education,1800
+,,,Post-secondary: Diploma/ Certificate,13648
+,,,Post-secondary: Sub-degree course,8766
+,,,Post-secondary: Degree course,32155
+,,,Post-secondary: Post-graduate,17515
+,,,Sub-Total,247835
+,55 - 59,Secondary and below,No schooling,-
+,,,Pre-primary,16414
+,,,Primary,54442
+,,,Lower secondary,47641
+,,,Upper secondary,54583
+,,,Matriculation (including Technician level),10001
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,183081
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,69
+,,,Post-secondary: Diploma/ Certificate,701
+,,,Post-secondary: Sub-degree course,753
+,,,Post-secondary: Degree course,2862
+,,,Post-secondary: Post-graduate,1700
+,,,Sub-Total,6085
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,17
+,,,Post-secondary: Diploma/ Certificate,355
+,,,Post-secondary: Sub-degree course,281
+,,,Post-secondary: Degree course,1490
+,,,Post-secondary: Post-graduate,570
+,,,Sub-Total,2713
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,163
+,,,Post-secondary: Sub-degree course,153
+,,,Post-secondary: Degree course,520
+,,,Post-secondary: Post-graduate,725
+,,,Sub-Total,1561
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,2651
+,,,Post-secondary: Sub-degree course,1882
+,,,Post-secondary: Degree course,5986
+,,,Post-secondary: Post-graduate,5275
+,,,Sub-Total,15794
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,14
+,,,Post-secondary: Diploma/ Certificate,559
+,,,Post-secondary: Sub-degree course,282
+,,,Post-secondary: Degree course,1469
+,,,Post-secondary: Post-graduate,649
+,,,Sub-Total,2973
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,300
+,,,Post-secondary: Sub-degree course,74
+,,,Post-secondary: Degree course,941
+,,,Post-secondary: Post-graduate,638
+,,,Sub-Total,1953
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,236
+,,,Post-secondary: Diploma/ Certificate,2283
+,,,Post-secondary: Sub-degree course,1111
+,,,Post-secondary: Degree course,2895
+,,,Post-secondary: Post-graduate,1429
+,,,Sub-Total,7954
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,597
+,,,Post-secondary: Diploma/ Certificate,2550
+,,,Post-secondary: Sub-degree course,1708
+,,,Post-secondary: Degree course,3042
+,,,Post-secondary: Post-graduate,1302
+,,,Sub-Total,9199
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,82
+,,,Post-secondary: Diploma/ Certificate,381
+,,,Post-secondary: Sub-degree course,336
+,,,Post-secondary: Degree course,164
+,,,Post-secondary: Post-graduate,74
+,,,Sub-Total,1037
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,476
+,,,Post-secondary: Diploma/ Certificate,688
+,,,Post-secondary: Sub-degree course,553
+,,,Post-secondary: Degree course,1586
+,,,Post-secondary: Post-graduate,742
+,,,Sub-Total,4045
+,,No schooling,No schooling,4443
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,4443
+,,Sub-Total,No schooling,4443
+,,,Pre-primary,16414
+,,,Primary,54442
+,,,Lower secondary,47641
+,,,Upper secondary,54583
+,,,Matriculation (including Technician level),10001
+,,,Craft level education,1491
+,,,Post-secondary: Diploma/ Certificate,10631
+,,,Post-secondary: Sub-degree course,7133
+,,,Post-secondary: Degree course,20955
+,,,Post-secondary: Post-graduate,13104
+,,,Sub-Total,240838
+,60 - 64,Secondary and below,No schooling,-
+,,,Pre-primary,16205
+,,,Primary,42504
+,,,Lower secondary,28552
+,,,Upper secondary,24992
+,,,Matriculation (including Technician level),4304
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,116557
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,50
+,,,Post-secondary: Diploma/ Certificate,642
+,,,Post-secondary: Sub-degree course,227
+,,,Post-secondary: Degree course,1433
+,,,Post-secondary: Post-graduate,743
+,,,Sub-Total,3095
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,91
+,,,Post-secondary: Sub-degree course,49
+,,,Post-secondary: Degree course,974
+,,,Post-secondary: Post-graduate,249
+,,,Sub-Total,1363
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,170
+,,,Post-secondary: Sub-degree course,104
+,,,Post-secondary: Degree course,328
+,,,Post-secondary: Post-graduate,142
+,,,Sub-Total,744
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,67
+,,,Post-secondary: Diploma/ Certificate,1416
+,,,Post-secondary: Sub-degree course,745
+,,,Post-secondary: Degree course,3374
+,,,Post-secondary: Post-graduate,2032
+,,,Sub-Total,7634
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,11
+,,,Post-secondary: Diploma/ Certificate,155
+,,,Post-secondary: Sub-degree course,73
+,,,Post-secondary: Degree course,371
+,,,Post-secondary: Post-graduate,147
+,,,Sub-Total,757
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,210
+,,,Post-secondary: Sub-degree course,104
+,,,Post-secondary: Degree course,518
+,,,Post-secondary: Post-graduate,373
+,,,Sub-Total,1205
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,182
+,,,Post-secondary: Diploma/ Certificate,776
+,,,Post-secondary: Sub-degree course,563
+,,,Post-secondary: Degree course,1183
+,,,Post-secondary: Post-graduate,486
+,,,Sub-Total,3190
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,269
+,,,Post-secondary: Diploma/ Certificate,945
+,,,Post-secondary: Sub-degree course,601
+,,,Post-secondary: Degree course,1731
+,,,Post-secondary: Post-graduate,373
+,,,Sub-Total,3919
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,55
+,,,Post-secondary: Diploma/ Certificate,95
+,,,Post-secondary: Sub-degree course,109
+,,,Post-secondary: Degree course,129
+,,,Post-secondary: Post-graduate,52
+,,,Sub-Total,440
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,230
+,,,Post-secondary: Diploma/ Certificate,248
+,,,Post-secondary: Sub-degree course,293
+,,,Post-secondary: Degree course,837
+,,,Post-secondary: Post-graduate,578
+,,,Sub-Total,2186
+,,No schooling,No schooling,4417
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,4417
+,,Sub-Total,No schooling,4417
+,,,Pre-primary,16205
+,,,Primary,42504
+,,,Lower secondary,28552
+,,,Upper secondary,24992
+,,,Matriculation (including Technician level),4304
+,,,Craft level education,864
+,,,Post-secondary: Diploma/ Certificate,4748
+,,,Post-secondary: Sub-degree course,2868
+,,,Post-secondary: Degree course,10878
+,,,Post-secondary: Post-graduate,5175
+,,,Sub-Total,145507
+,65+,Secondary and below,No schooling,-
+,,,Pre-primary,12562
+,,,Primary,24793
+,,,Lower secondary,16775
+,,,Upper secondary,14566
+,,,Matriculation (including Technician level),3558
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,72254
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,71
+,,,Post-secondary: Diploma/ Certificate,370
+,,,Post-secondary: Sub-degree course,281
+,,,Post-secondary: Degree course,1213
+,,,Post-secondary: Post-graduate,592
+,,,Sub-Total,2527
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,191
+,,,Post-secondary: Sub-degree course,131
+,,,Post-secondary: Degree course,944
+,,,Post-secondary: Post-graduate,589
+,,,Sub-Total,1855
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,222
+,,,Post-secondary: Sub-degree course,126
+,,,Post-secondary: Degree course,309
+,,,Post-secondary: Post-graduate,145
+,,,Sub-Total,802
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,799
+,,,Post-secondary: Sub-degree course,598
+,,,Post-secondary: Degree course,2325
+,,,Post-secondary: Post-graduate,1267
+,,,Sub-Total,4989
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,13
+,,,Post-secondary: Diploma/ Certificate,130
+,,,Post-secondary: Sub-degree course,39
+,,,Post-secondary: Degree course,111
+,,,Post-secondary: Post-graduate,85
+,,,Sub-Total,378
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,149
+,,,Post-secondary: Sub-degree course,77
+,,,Post-secondary: Degree course,910
+,,,Post-secondary: Post-graduate,312
+,,,Sub-Total,1448
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,134
+,,,Post-secondary: Diploma/ Certificate,501
+,,,Post-secondary: Sub-degree course,310
+,,,Post-secondary: Degree course,887
+,,,Post-secondary: Post-graduate,397
+,,,Sub-Total,2229
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,268
+,,,Post-secondary: Diploma/ Certificate,495
+,,,Post-secondary: Sub-degree course,416
+,,,Post-secondary: Degree course,1298
+,,,Post-secondary: Post-graduate,331
+,,,Sub-Total,2808
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,11
+,,,Post-secondary: Diploma/ Certificate,65
+,,,Post-secondary: Sub-degree course,172
+,,,Post-secondary: Degree course,81
+,,,Post-secondary: Post-graduate,7
+,,,Sub-Total,336
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,109
+,,,Post-secondary: Diploma/ Certificate,196
+,,,Post-secondary: Sub-degree course,83
+,,,Post-secondary: Degree course,778
+,,,Post-secondary: Post-graduate,229
+,,,Sub-Total,1395
+,,No schooling,No schooling,4009
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,4009
+,,Sub-Total,No schooling,4009
+,,,Pre-primary,12562
+,,,Primary,24793
+,,,Lower secondary,16775
+,,,Upper secondary,14566
+,,,Matriculation (including Technician level),3558
+,,,Craft level education,606
+,,,Post-secondary: Diploma/ Certificate,3118
+,,,Post-secondary: Sub-degree course,2233
+,,,Post-secondary: Degree course,8856
+,,,Post-secondary: Post-graduate,3954
+,,,Sub-Total,95030
+,Sub-Total,Secondary and below,No schooling,-
+,,,Pre-primary,60316
+,,,Primary,211747
+,,,Lower secondary,319696
+,,,Upper secondary,452491
+,,,Matriculation (including Technician level),71004
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,1115254
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,929
+,,,Post-secondary: Diploma/ Certificate,15122
+,,,Post-secondary: Sub-degree course,12148
+,,,Post-secondary: Degree course,47610
+,,,Post-secondary: Post-graduate,18361
+,,,Total,94170
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,95
+,,,Post-secondary: Diploma/ Certificate,4968
+,,,Post-secondary: Sub-degree course,3477
+,,,Post-secondary: Degree course,31123
+,,,Post-secondary: Post-graduate,12391
+,,,Total,52054
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,3122
+,,,Post-secondary: Sub-degree course,1942
+,,,Post-secondary: Degree course,7381
+,,,Post-secondary: Post-graduate,5566
+,,,Total,18011
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,223
+,,,Post-secondary: Diploma/ Certificate,32424
+,,,Post-secondary: Sub-degree course,21784
+,,,Post-secondary: Degree course,124348
+,,,Post-secondary: Post-graduate,48368
+,,,Total,227147
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,415
+,,,Post-secondary: Diploma/ Certificate,14900
+,,,Post-secondary: Sub-degree course,10464
+,,,Post-secondary: Degree course,46829
+,,,Post-secondary: Post-graduate,14537
+,,,Total,87145
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,4569
+,,,Post-secondary: Sub-degree course,2410
+,,,Post-secondary: Degree course,13938
+,,,Post-secondary: Post-graduate,6313
+,,,Total,27230
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,2307
+,,,Post-secondary: Diploma/ Certificate,20670
+,,,Post-secondary: Sub-degree course,12868
+,,,Post-secondary: Degree course,39234
+,,,Post-secondary: Post-graduate,14976
+,,,Total,90055
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,4896
+,,,Post-secondary: Diploma/ Certificate,24999
+,,,Post-secondary: Sub-degree course,15988
+,,,Post-secondary: Degree course,45855
+,,,Post-secondary: Post-graduate,16092
+,,,Total,107830
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,478
+,,,Post-secondary: Diploma/ Certificate,3009
+,,,Post-secondary: Sub-degree course,2614
+,,,Post-secondary: Degree course,3261
+,,,Post-secondary: Post-graduate,912
+,,,Total,10274
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,3366
+,,,Post-secondary: Diploma/ Certificate,10188
+,,,Post-secondary: Sub-degree course,7658
+,,,Post-secondary: Degree course,22203
+,,,Post-secondary: Post-graduate,10132
+,,,Total,53547
+,,No schooling,No schooling,16666
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,16666
+,,Sub-Total,No schooling,16666
+,,,Pre-primary,60316
+,,,Primary,211747
+,,,Lower secondary,319696
+,,,Upper secondary,452491
+,,,Matriculation (including Technician level),71004
+,,,Craft level education,12709
+,,,Post-secondary: Diploma/ Certificate,133971
+,,,Post-secondary: Sub-degree course,91353
+,,,Post-secondary: Degree course,381782
+,,,Post-secondary: Post-graduate,147648
+,,,Sub-Total,1899383
+Female,15 - 19,Secondary and below,No schooling,-
+,,,Pre-primary,38
+,,,Primary,609
+,,,Lower secondary,9183
+,,,Upper secondary,9765
+,,,Matriculation (including Technician level),116
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,19711
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,10
+,,,Post-secondary: Diploma/ Certificate,495
+,,,Post-secondary: Sub-degree course,333
+,,,Post-secondary: Degree course,560
+,,,Post-secondary: Post-graduate,12
+,,,Sub-Total,1410
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,95
+,,,Post-secondary: Sub-degree course,34
+,,,Post-secondary: Degree course,226
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,355
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,102
+,,,Post-secondary: Sub-degree course,67
+,,,Post-secondary: Degree course,85
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,254
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,534
+,,,Post-secondary: Sub-degree course,266
+,,,Post-secondary: Degree course,628
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,1428
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,74
+,,,Post-secondary: Sub-degree course,34
+,,,Post-secondary: Degree course,23
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,131
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,171
+,,,Post-secondary: Sub-degree course,113
+,,,Post-secondary: Degree course,132
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,416
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,146
+,,,Post-secondary: Sub-degree course,102
+,,,Post-secondary: Degree course,166
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,414
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,66
+,,,Post-secondary: Sub-degree course,24
+,,,Post-secondary: Degree course,124
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,214
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,41
+,,,Post-secondary: Sub-degree course,22
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,63
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,37
+,,,Post-secondary: Diploma/ Certificate,367
+,,,Post-secondary: Sub-degree course,203
+,,,Post-secondary: Degree course,277
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,884
+,,No schooling,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,-
+,,Sub-Total,No schooling,-
+,,,Pre-primary,38
+,,,Primary,609
+,,,Lower secondary,9183
+,,,Upper secondary,9765
+,,,Matriculation (including Technician level),116
+,,,Craft level education,47
+,,,Post-secondary: Diploma/ Certificate,2091
+,,,Post-secondary: Sub-degree course,1198
+,,,Post-secondary: Degree course,2221
+,,,Post-secondary: Post-graduate,12
+,,,Sub-Total,25280
+,20 - 24,Secondary and below,No schooling,-
+,,,Pre-primary,83
+,,,Primary,864
+,,,Lower secondary,6398
+,,,Upper secondary,31354
+,,,Matriculation (including Technician level),3556
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,42255
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,82
+,,,Post-secondary: Diploma/ Certificate,3846
+,,,Post-secondary: Sub-degree course,3280
+,,,Post-secondary: Degree course,10155
+,,,Post-secondary: Post-graduate,668
+,,,Sub-Total,18031
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,750
+,,,Post-secondary: Sub-degree course,638
+,,,Post-secondary: Degree course,2305
+,,,Post-secondary: Post-graduate,128
+,,,Sub-Total,3821
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1281
+,,,Post-secondary: Sub-degree course,807
+,,,Post-secondary: Degree course,1426
+,,,Post-secondary: Post-graduate,156
+,,,Sub-Total,3670
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,35
+,,,Post-secondary: Diploma/ Certificate,4813
+,,,Post-secondary: Sub-degree course,3705
+,,,Post-secondary: Degree course,14547
+,,,Post-secondary: Post-graduate,780
+,,,Sub-Total,23880
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,562
+,,,Post-secondary: Sub-degree course,422
+,,,Post-secondary: Degree course,1235
+,,,Post-secondary: Post-graduate,141
+,,,Sub-Total,2360
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1460
+,,,Post-secondary: Sub-degree course,1029
+,,,Post-secondary: Degree course,2209
+,,,Post-secondary: Post-graduate,24
+,,,Sub-Total,4722
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,8
+,,,Post-secondary: Diploma/ Certificate,1108
+,,,Post-secondary: Sub-degree course,831
+,,,Post-secondary: Degree course,2215
+,,,Post-secondary: Post-graduate,180
+,,,Sub-Total,4342
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,34
+,,,Post-secondary: Diploma/ Certificate,589
+,,,Post-secondary: Sub-degree course,401
+,,,Post-secondary: Degree course,1176
+,,,Post-secondary: Post-graduate,232
+,,,Sub-Total,2432
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,45
+,,,Post-secondary: Diploma/ Certificate,235
+,,,Post-secondary: Sub-degree course,339
+,,,Post-secondary: Degree course,499
+,,,Post-secondary: Post-graduate,31
+,,,Sub-Total,1149
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,86
+,,,Post-secondary: Diploma/ Certificate,2385
+,,,Post-secondary: Sub-degree course,2185
+,,,Post-secondary: Degree course,4461
+,,,Post-secondary: Post-graduate,347
+,,,Sub-Total,9464
+,,No schooling,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,-
+,,Sub-Total,No schooling,-
+,,,Pre-primary,83
+,,,Primary,864
+,,,Lower secondary,6398
+,,,Upper secondary,31354
+,,,Matriculation (including Technician level),3556
+,,,Craft level education,290
+,,,Post-secondary: Diploma/ Certificate,17029
+,,,Post-secondary: Sub-degree course,13637
+,,,Post-secondary: Degree course,40228
+,,,Post-secondary: Post-graduate,2687
+,,,Sub-Total,116126
+,25 - 29,Secondary and below,No schooling,-
+,,,Pre-primary,241
+,,,Primary,1171
+,,,Lower secondary,7050
+,,,Upper secondary,34623
+,,,Matriculation (including Technician level),7376
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,50461
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,42
+,,,Post-secondary: Diploma/ Certificate,3490
+,,,Post-secondary: Sub-degree course,3509
+,,,Post-secondary: Degree course,17982
+,,,Post-secondary: Post-graduate,4099
+,,,Sub-Total,29122
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,21
+,,,Post-secondary: Diploma/ Certificate,773
+,,,Post-secondary: Sub-degree course,540
+,,,Post-secondary: Degree course,4076
+,,,Post-secondary: Post-graduate,1184
+,,,Sub-Total,6594
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1209
+,,,Post-secondary: Sub-degree course,774
+,,,Post-secondary: Degree course,3778
+,,,Post-secondary: Post-graduate,1124
+,,,Sub-Total,6885
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,50
+,,,Post-secondary: Diploma/ Certificate,7559
+,,,Post-secondary: Sub-degree course,5576
+,,,Post-secondary: Degree course,29780
+,,,Post-secondary: Post-graduate,4174
+,,,Sub-Total,47139
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,15
+,,,Post-secondary: Diploma/ Certificate,933
+,,,Post-secondary: Sub-degree course,582
+,,,Post-secondary: Degree course,2618
+,,,Post-secondary: Post-graduate,509
+,,,Sub-Total,4657
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1360
+,,,Post-secondary: Sub-degree course,926
+,,,Post-secondary: Degree course,4605
+,,,Post-secondary: Post-graduate,937
+,,,Sub-Total,7828
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,15
+,,,Post-secondary: Diploma/ Certificate,1148
+,,,Post-secondary: Sub-degree course,882
+,,,Post-secondary: Degree course,3892
+,,,Post-secondary: Post-graduate,1232
+,,,Sub-Total,7169
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,612
+,,,Post-secondary: Sub-degree course,443
+,,,Post-secondary: Degree course,2703
+,,,Post-secondary: Post-graduate,818
+,,,Sub-Total,4576
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,38
+,,,Post-secondary: Diploma/ Certificate,466
+,,,Post-secondary: Sub-degree course,359
+,,,Post-secondary: Degree course,1147
+,,,Post-secondary: Post-graduate,81
+,,,Sub-Total,2091
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,103
+,,,Post-secondary: Diploma/ Certificate,2653
+,,,Post-secondary: Sub-degree course,1692
+,,,Post-secondary: Degree course,7814
+,,,Post-secondary: Post-graduate,2268
+,,,Sub-Total,14530
+,,No schooling,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,-
+,,Sub-Total,No schooling,-
+,,,Pre-primary,241
+,,,Primary,1171
+,,,Lower secondary,7050
+,,,Upper secondary,34623
+,,,Matriculation (including Technician level),7376
+,,,Craft level education,284
+,,,Post-secondary: Diploma/ Certificate,20203
+,,,Post-secondary: Sub-degree course,15283
+,,,Post-secondary: Degree course,78395
+,,,Post-secondary: Post-graduate,16426
+,,,Sub-Total,181052
+,30 - 34,Secondary and below,No schooling,-
+,,,Pre-primary,552
+,,,Primary,3010
+,,,Lower secondary,11490
+,,,Upper secondary,41566
+,,,Matriculation (including Technician level),8684
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,65302
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,149
+,,,Post-secondary: Diploma/ Certificate,3212
+,,,Post-secondary: Sub-degree course,2399
+,,,Post-secondary: Degree course,13846
+,,,Post-secondary: Post-graduate,5787
+,,,Sub-Total,25393
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,10
+,,,Post-secondary: Diploma/ Certificate,527
+,,,Post-secondary: Sub-degree course,397
+,,,Post-secondary: Degree course,3762
+,,,Post-secondary: Post-graduate,1782
+,,,Sub-Total,6478
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,800
+,,,Post-secondary: Sub-degree course,367
+,,,Post-secondary: Degree course,3202
+,,,Post-secondary: Post-graduate,1948
+,,,Sub-Total,6317
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,104
+,,,Post-secondary: Diploma/ Certificate,7908
+,,,Post-secondary: Sub-degree course,5406
+,,,Post-secondary: Degree course,29364
+,,,Post-secondary: Post-graduate,5634
+,,,Sub-Total,48416
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,26
+,,,Post-secondary: Diploma/ Certificate,923
+,,,Post-secondary: Sub-degree course,680
+,,,Post-secondary: Degree course,2698
+,,,Post-secondary: Post-graduate,717
+,,,Sub-Total,5044
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,965
+,,,Post-secondary: Sub-degree course,405
+,,,Post-secondary: Degree course,3387
+,,,Post-secondary: Post-graduate,1837
+,,,Sub-Total,6594
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,49
+,,,Post-secondary: Diploma/ Certificate,1015
+,,,Post-secondary: Sub-degree course,601
+,,,Post-secondary: Degree course,3581
+,,,Post-secondary: Post-graduate,1491
+,,,Sub-Total,6737
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,10
+,,,Post-secondary: Diploma/ Certificate,462
+,,,Post-secondary: Sub-degree course,384
+,,,Post-secondary: Degree course,2289
+,,,Post-secondary: Post-graduate,832
+,,,Sub-Total,3977
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,60
+,,,Post-secondary: Diploma/ Certificate,722
+,,,Post-secondary: Sub-degree course,716
+,,,Post-secondary: Degree course,930
+,,,Post-secondary: Post-graduate,167
+,,,Sub-Total,2595
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,185
+,,,Post-secondary: Diploma/ Certificate,1689
+,,,Post-secondary: Sub-degree course,1245
+,,,Post-secondary: Degree course,6662
+,,,Post-secondary: Post-graduate,2524
+,,,Sub-Total,12305
+,,No schooling,No schooling,21
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,21
+,,Sub-Total,No schooling,21
+,,,Pre-primary,552
+,,,Primary,3010
+,,,Lower secondary,11490
+,,,Upper secondary,41566
+,,,Matriculation (including Technician level),8684
+,,,Craft level education,593
+,,,Post-secondary: Diploma/ Certificate,18223
+,,,Post-secondary: Sub-degree course,12600
+,,,Post-secondary: Degree course,69721
+,,,Post-secondary: Post-graduate,22719
+,,,Sub-Total,189179
+,35 - 39,Secondary and below,No schooling,-
+,,,Pre-primary,1176
+,,,Primary,6520
+,,,Lower secondary,19478
+,,,Upper secondary,43559
+,,,Matriculation (including Technician level),7907
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,78640
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,83
+,,,Post-secondary: Diploma/ Certificate,1762
+,,,Post-secondary: Sub-degree course,1459
+,,,Post-secondary: Degree course,8694
+,,,Post-secondary: Post-graduate,5069
+,,,Sub-Total,17067
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,20
+,,,Post-secondary: Diploma/ Certificate,437
+,,,Post-secondary: Sub-degree course,273
+,,,Post-secondary: Degree course,3007
+,,,Post-secondary: Post-graduate,1760
+,,,Sub-Total,5497
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1160
+,,,Post-secondary: Sub-degree course,575
+,,,Post-secondary: Degree course,3824
+,,,Post-secondary: Post-graduate,1854
+,,,Sub-Total,7413
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,24
+,,,Post-secondary: Diploma/ Certificate,7279
+,,,Post-secondary: Sub-degree course,4353
+,,,Post-secondary: Degree course,21875
+,,,Post-secondary: Post-graduate,5650
+,,,Sub-Total,39181
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,18
+,,,Post-secondary: Diploma/ Certificate,656
+,,,Post-secondary: Sub-degree course,419
+,,,Post-secondary: Degree course,2465
+,,,Post-secondary: Post-graduate,1158
+,,,Sub-Total,4716
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,859
+,,,Post-secondary: Sub-degree course,366
+,,,Post-secondary: Degree course,2192
+,,,Post-secondary: Post-graduate,1571
+,,,Sub-Total,4988
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,935
+,,,Post-secondary: Sub-degree course,368
+,,,Post-secondary: Degree course,2590
+,,,Post-secondary: Post-graduate,1072
+,,,Sub-Total,4965
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,29
+,,,Post-secondary: Diploma/ Certificate,411
+,,,Post-secondary: Sub-degree course,209
+,,,Post-secondary: Degree course,1865
+,,,Post-secondary: Post-graduate,759
+,,,Sub-Total,3273
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,18
+,,,Post-secondary: Diploma/ Certificate,439
+,,,Post-secondary: Sub-degree course,426
+,,,Post-secondary: Degree course,719
+,,,Post-secondary: Post-graduate,161
+,,,Sub-Total,1763
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,273
+,,,Post-secondary: Diploma/ Certificate,1107
+,,,Post-secondary: Sub-degree course,617
+,,,Post-secondary: Degree course,4276
+,,,Post-secondary: Post-graduate,2070
+,,,Sub-Total,8343
+,,No schooling,No schooling,67
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,67
+,,Sub-Total,No schooling,67
+,,,Pre-primary,1176
+,,,Primary,6520
+,,,Lower secondary,19478
+,,,Upper secondary,43559
+,,,Matriculation (including Technician level),7907
+,,,Craft level education,465
+,,,Post-secondary: Diploma/ Certificate,15045
+,,,Post-secondary: Sub-degree course,9065
+,,,Post-secondary: Degree course,51507
+,,,Post-secondary: Post-graduate,21124
+,,,Sub-Total,175913
+,40 - 44,Secondary and below,No schooling,-
+,,,Pre-primary,4065
+,,,Primary,14643
+,,,Lower secondary,31174
+,,,Upper secondary,51868
+,,,Matriculation (including Technician level),7662
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,109412
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,78
+,,,Post-secondary: Diploma/ Certificate,1768
+,,,Post-secondary: Sub-degree course,1020
+,,,Post-secondary: Degree course,8027
+,,,Post-secondary: Post-graduate,4171
+,,,Sub-Total,15064
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,10
+,,,Post-secondary: Diploma/ Certificate,370
+,,,Post-secondary: Sub-degree course,290
+,,,Post-secondary: Degree course,2817
+,,,Post-secondary: Post-graduate,1049
+,,,Sub-Total,4536
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,932
+,,,Post-secondary: Sub-degree course,433
+,,,Post-secondary: Degree course,2738
+,,,Post-secondary: Post-graduate,1701
+,,,Sub-Total,5804
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,52
+,,,Post-secondary: Diploma/ Certificate,6788
+,,,Post-secondary: Sub-degree course,3708
+,,,Post-secondary: Degree course,17486
+,,,Post-secondary: Post-graduate,6041
+,,,Sub-Total,34075
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,14
+,,,Post-secondary: Diploma/ Certificate,529
+,,,Post-secondary: Sub-degree course,221
+,,,Post-secondary: Degree course,2198
+,,,Post-secondary: Post-graduate,835
+,,,Sub-Total,3797
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,888
+,,,Post-secondary: Sub-degree course,413
+,,,Post-secondary: Degree course,2367
+,,,Post-secondary: Post-graduate,1290
+,,,Sub-Total,4958
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,99
+,,,Post-secondary: Diploma/ Certificate,627
+,,,Post-secondary: Sub-degree course,357
+,,,Post-secondary: Degree course,1593
+,,,Post-secondary: Post-graduate,908
+,,,Sub-Total,3584
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,26
+,,,Post-secondary: Diploma/ Certificate,333
+,,,Post-secondary: Sub-degree course,163
+,,,Post-secondary: Degree course,755
+,,,Post-secondary: Post-graduate,401
+,,,Sub-Total,1678
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,96
+,,,Post-secondary: Diploma/ Certificate,524
+,,,Post-secondary: Sub-degree course,407
+,,,Post-secondary: Degree course,389
+,,,Post-secondary: Post-graduate,74
+,,,Sub-Total,1490
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,206
+,,,Post-secondary: Diploma/ Certificate,1072
+,,,Post-secondary: Sub-degree course,677
+,,,Post-secondary: Degree course,3145
+,,,Post-secondary: Post-graduate,1668
+,,,Sub-Total,6768
+,,No schooling,No schooling,171
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,171
+,,Sub-Total,No schooling,171
+,,,Pre-primary,4065
+,,,Primary,14643
+,,,Lower secondary,31174
+,,,Upper secondary,51868
+,,,Matriculation (including Technician level),7662
+,,,Craft level education,581
+,,,Post-secondary: Diploma/ Certificate,13831
+,,,Post-secondary: Sub-degree course,7689
+,,,Post-secondary: Degree course,41515
+,,,Post-secondary: Post-graduate,18138
+,,,Sub-Total,191337
+,45 - 49,Secondary and below,No schooling,-
+,,,Pre-primary,7201
+,,,Primary,19388
+,,,Lower secondary,35389
+,,,Upper secondary,61303
+,,,Matriculation (including Technician level),7536
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,130817
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,120
+,,,Post-secondary: Diploma/ Certificate,1537
+,,,Post-secondary: Sub-degree course,961
+,,,Post-secondary: Degree course,6403
+,,,Post-secondary: Post-graduate,2779
+,,,Sub-Total,11800
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,23
+,,,Post-secondary: Diploma/ Certificate,358
+,,,Post-secondary: Sub-degree course,211
+,,,Post-secondary: Degree course,1492
+,,,Post-secondary: Post-graduate,663
+,,,Sub-Total,2747
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,853
+,,,Post-secondary: Sub-degree course,480
+,,,Post-secondary: Degree course,2209
+,,,Post-secondary: Post-graduate,1502
+,,,Sub-Total,5044
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,122
+,,,Post-secondary: Diploma/ Certificate,6642
+,,,Post-secondary: Sub-degree course,3695
+,,,Post-secondary: Degree course,13429
+,,,Post-secondary: Post-graduate,5186
+,,,Sub-Total,29074
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,45
+,,,Post-secondary: Diploma/ Certificate,333
+,,,Post-secondary: Sub-degree course,216
+,,,Post-secondary: Degree course,1368
+,,,Post-secondary: Post-graduate,290
+,,,Sub-Total,2252
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1056
+,,,Post-secondary: Sub-degree course,449
+,,,Post-secondary: Degree course,2272
+,,,Post-secondary: Post-graduate,997
+,,,Sub-Total,4774
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,26
+,,,Post-secondary: Diploma/ Certificate,460
+,,,Post-secondary: Sub-degree course,297
+,,,Post-secondary: Degree course,1124
+,,,Post-secondary: Post-graduate,475
+,,,Sub-Total,2382
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,23
+,,,Post-secondary: Diploma/ Certificate,267
+,,,Post-secondary: Sub-degree course,210
+,,,Post-secondary: Degree course,534
+,,,Post-secondary: Post-graduate,328
+,,,Sub-Total,1362
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,75
+,,,Post-secondary: Diploma/ Certificate,507
+,,,Post-secondary: Sub-degree course,287
+,,,Post-secondary: Degree course,404
+,,,Post-secondary: Post-graduate,106
+,,,Sub-Total,1379
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,220
+,,,Post-secondary: Diploma/ Certificate,847
+,,,Post-secondary: Sub-degree course,399
+,,,Post-secondary: Degree course,2361
+,,,Post-secondary: Post-graduate,1208
+,,,Sub-Total,5035
+,,No schooling,No schooling,230
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,230
+,,Sub-Total,No schooling,230
+,,,Pre-primary,7201
+,,,Primary,19388
+,,,Lower secondary,35389
+,,,Upper secondary,61303
+,,,Matriculation (including Technician level),7536
+,,,Craft level education,654
+,,,Post-secondary: Diploma/ Certificate,12860
+,,,Post-secondary: Sub-degree course,7205
+,,,Post-secondary: Degree course,31596
+,,,Post-secondary: Post-graduate,13534
+,,,Sub-Total,196896
+,50 - 54,Secondary and below,No schooling,-
+,,,Pre-primary,9799
+,,,Primary,31291
+,,,Lower secondary,35305
+,,,Upper secondary,62556
+,,,Matriculation (including Technician level),9384
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,148335
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,151
+,,,Post-secondary: Diploma/ Certificate,1435
+,,,Post-secondary: Sub-degree course,1037
+,,,Post-secondary: Degree course,4680
+,,,Post-secondary: Post-graduate,2220
+,,,Sub-Total,9523
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,299
+,,,Post-secondary: Sub-degree course,160
+,,,Post-secondary: Degree course,1021
+,,,Post-secondary: Post-graduate,285
+,,,Sub-Total,1765
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,929
+,,,Post-secondary: Sub-degree course,511
+,,,Post-secondary: Degree course,2214
+,,,Post-secondary: Post-graduate,1024
+,,,Sub-Total,4678
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,48
+,,,Post-secondary: Diploma/ Certificate,5618
+,,,Post-secondary: Sub-degree course,3408
+,,,Post-secondary: Degree course,8088
+,,,Post-secondary: Post-graduate,3511
+,,,Sub-Total,20673
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,17
+,,,Post-secondary: Diploma/ Certificate,412
+,,,Post-secondary: Sub-degree course,226
+,,,Post-secondary: Degree course,652
+,,,Post-secondary: Post-graduate,269
+,,,Sub-Total,1576
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1083
+,,,Post-secondary: Sub-degree course,505
+,,,Post-secondary: Degree course,2419
+,,,Post-secondary: Post-graduate,1102
+,,,Sub-Total,5109
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,18
+,,,Post-secondary: Diploma/ Certificate,417
+,,,Post-secondary: Sub-degree course,229
+,,,Post-secondary: Degree course,425
+,,,Post-secondary: Post-graduate,321
+,,,Sub-Total,1410
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,13
+,,,Post-secondary: Diploma/ Certificate,314
+,,,Post-secondary: Sub-degree course,198
+,,,Post-secondary: Degree course,507
+,,,Post-secondary: Post-graduate,189
+,,,Sub-Total,1221
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,124
+,,,Post-secondary: Diploma/ Certificate,524
+,,,Post-secondary: Sub-degree course,238
+,,,Post-secondary: Degree course,112
+,,,Post-secondary: Post-graduate,49
+,,,Sub-Total,1047
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,162
+,,,Post-secondary: Diploma/ Certificate,921
+,,,Post-secondary: Sub-degree course,560
+,,,Post-secondary: Degree course,1736
+,,,Post-secondary: Post-graduate,722
+,,,Sub-Total,4101
+,,No schooling,No schooling,3961
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,3961
+,,Sub-Total,No schooling,3961
+,,,Pre-primary,9799
+,,,Primary,31291
+,,,Lower secondary,35305
+,,,Upper secondary,62556
+,,,Matriculation (including Technician level),9384
+,,,Craft level education,533
+,,,Post-secondary: Diploma/ Certificate,11952
+,,,Post-secondary: Sub-degree course,7072
+,,,Post-secondary: Degree course,21854
+,,,Post-secondary: Post-graduate,9692
+,,,Sub-Total,203399
+,55 - 59,Secondary and below,No schooling,-
+,,,Pre-primary,13148
+,,,Primary,33584
+,,,Lower secondary,27308
+,,,Upper secondary,39610
+,,,Matriculation (including Technician level),5947
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,119597
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,53
+,,,Post-secondary: Diploma/ Certificate,637
+,,,Post-secondary: Sub-degree course,478
+,,,Post-secondary: Degree course,2313
+,,,Post-secondary: Post-graduate,1503
+,,,Sub-Total,4984
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,189
+,,,Post-secondary: Sub-degree course,89
+,,,Post-secondary: Degree course,605
+,,,Post-secondary: Post-graduate,193
+,,,Sub-Total,1076
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,529
+,,,Post-secondary: Sub-degree course,332
+,,,Post-secondary: Degree course,1026
+,,,Post-secondary: Post-graduate,596
+,,,Sub-Total,2483
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,58
+,,,Post-secondary: Diploma/ Certificate,3007
+,,,Post-secondary: Sub-degree course,1663
+,,,Post-secondary: Degree course,3783
+,,,Post-secondary: Post-graduate,1527
+,,,Sub-Total,10038
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,102
+,,,Post-secondary: Sub-degree course,150
+,,,Post-secondary: Degree course,382
+,,,Post-secondary: Post-graduate,131
+,,,Sub-Total,765
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,807
+,,,Post-secondary: Sub-degree course,408
+,,,Post-secondary: Degree course,1280
+,,,Post-secondary: Post-graduate,462
+,,,Sub-Total,2957
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,8
+,,,Post-secondary: Diploma/ Certificate,244
+,,,Post-secondary: Sub-degree course,120
+,,,Post-secondary: Degree course,314
+,,,Post-secondary: Post-graduate,146
+,,,Sub-Total,832
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,10
+,,,Post-secondary: Diploma/ Certificate,190
+,,,Post-secondary: Sub-degree course,59
+,,,Post-secondary: Degree course,250
+,,,Post-secondary: Post-graduate,76
+,,,Sub-Total,585
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,283
+,,,Post-secondary: Sub-degree course,63
+,,,Post-secondary: Degree course,96
+,,,Post-secondary: Post-graduate,7
+,,,Sub-Total,449
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,90
+,,,Post-secondary: Diploma/ Certificate,525
+,,,Post-secondary: Sub-degree course,258
+,,,Post-secondary: Degree course,929
+,,,Post-secondary: Post-graduate,408
+,,,Sub-Total,2210
+,,No schooling,No schooling,5657
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,5657
+,,Sub-Total,No schooling,5657
+,,,Pre-primary,13148
+,,,Primary,33584
+,,,Lower secondary,27308
+,,,Upper secondary,39610
+,,,Matriculation (including Technician level),5947
+,,,Craft level education,219
+,,,Post-secondary: Diploma/ Certificate,6513
+,,,Post-secondary: Sub-degree course,3620
+,,,Post-secondary: Degree course,10978
+,,,Post-secondary: Post-graduate,5049
+,,,Sub-Total,151633
+,60 - 64,Secondary and below,No schooling,-
+,,,Pre-primary,11187
+,,,Primary,20666
+,,,Lower secondary,12428
+,,,Upper secondary,13707
+,,,Matriculation (including Technician level),2271
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,60259
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,22
+,,,Post-secondary: Diploma/ Certificate,306
+,,,Post-secondary: Sub-degree course,222
+,,,Post-secondary: Degree course,1042
+,,,Post-secondary: Post-graduate,484
+,,,Sub-Total,2076
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,11
+,,,Post-secondary: Diploma/ Certificate,86
+,,,Post-secondary: Sub-degree course,95
+,,,Post-secondary: Degree course,170
+,,,Post-secondary: Post-graduate,50
+,,,Sub-Total,412
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,210
+,,,Post-secondary: Sub-degree course,103
+,,,Post-secondary: Degree course,412
+,,,Post-secondary: Post-graduate,169
+,,,Sub-Total,894
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,17
+,,,Post-secondary: Diploma/ Certificate,911
+,,,Post-secondary: Sub-degree course,589
+,,,Post-secondary: Degree course,1152
+,,,Post-secondary: Post-graduate,607
+,,,Sub-Total,3276
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,78
+,,,Post-secondary: Sub-degree course,11
+,,,Post-secondary: Degree course,78
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,167
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,272
+,,,Post-secondary: Sub-degree course,232
+,,,Post-secondary: Degree course,426
+,,,Post-secondary: Post-graduate,130
+,,,Sub-Total,1060
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,20
+,,,Post-secondary: Diploma/ Certificate,18
+,,,Post-secondary: Sub-degree course,59
+,,,Post-secondary: Degree course,143
+,,,Post-secondary: Post-graduate,47
+,,,Sub-Total,287
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,94
+,,,Post-secondary: Sub-degree course,93
+,,,Post-secondary: Degree course,101
+,,,Post-secondary: Post-graduate,37
+,,,Sub-Total,325
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,13
+,,,Post-secondary: Diploma/ Certificate,44
+,,,Post-secondary: Sub-degree course,22
+,,,Post-secondary: Degree course,61
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,140
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,98
+,,,Post-secondary: Diploma/ Certificate,102
+,,,Post-secondary: Sub-degree course,70
+,,,Post-secondary: Degree course,281
+,,,Post-secondary: Post-graduate,272
+,,,Sub-Total,823
+,,No schooling,No schooling,5439
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,5439
+,,Sub-Total,No schooling,5439
+,,,Pre-primary,11187
+,,,Primary,20666
+,,,Lower secondary,12428
+,,,Upper secondary,13707
+,,,Matriculation (including Technician level),2271
+,,,Craft level education,181
+,,,Post-secondary: Diploma/ Certificate,2121
+,,,Post-secondary: Sub-degree course,1496
+,,,Post-secondary: Degree course,3866
+,,,Post-secondary: Post-graduate,1796
+,,,Sub-Total,75158
+,65+,Secondary and below,No schooling,-
+,,,Pre-primary,4834
+,,,Primary,6947
+,,,Lower secondary,4200
+,,,Upper secondary,4968
+,,,Matriculation (including Technician level),1125
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,22074
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,23
+,,,Post-secondary: Diploma/ Certificate,155
+,,,Post-secondary: Sub-degree course,260
+,,,Post-secondary: Degree course,373
+,,,Post-secondary: Post-graduate,179
+,,,Sub-Total,990
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,9
+,,,Post-secondary: Diploma/ Certificate,30
+,,,Post-secondary: Sub-degree course,9
+,,,Post-secondary: Degree course,183
+,,,Post-secondary: Post-graduate,47
+,,,Sub-Total,278
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,105
+,,,Post-secondary: Sub-degree course,161
+,,,Post-secondary: Degree course,362
+,,,Post-secondary: Post-graduate,101
+,,,Sub-Total,729
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,317
+,,,Post-secondary: Sub-degree course,128
+,,,Post-secondary: Degree course,526
+,,,Post-secondary: Post-graduate,129
+,,,Sub-Total,1100
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,8
+,,,Post-secondary: Sub-degree course,11
+,,,Post-secondary: Degree course,36
+,,,Post-secondary: Post-graduate,18
+,,,Sub-Total,73
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,30
+,,,Post-secondary: Sub-degree course,63
+,,,Post-secondary: Degree course,386
+,,,Post-secondary: Post-graduate,16
+,,,Sub-Total,495
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,24
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,85
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,109
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,57
+,,,Post-secondary: Sub-degree course,21
+,,,Post-secondary: Degree course,82
+,,,Post-secondary: Post-graduate,28
+,,,Sub-Total,188
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,37
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,37
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,45
+,,,Post-secondary: Diploma/ Certificate,52
+,,,Post-secondary: Sub-degree course,55
+,,,Post-secondary: Degree course,128
+,,,Post-secondary: Post-graduate,42
+,,,Sub-Total,322
+,,No schooling,No schooling,3066
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Sub-Total,3066
+,,Sub-Total,No schooling,3066
+,,,Pre-primary,4834
+,,,Primary,6947
+,,,Lower secondary,4200
+,,,Upper secondary,4968
+,,,Matriculation (including Technician level),1125
+,,,Craft level education,77
+,,,Post-secondary: Diploma/ Certificate,778
+,,,Post-secondary: Sub-degree course,745
+,,,Post-secondary: Degree course,2161
+,,,Post-secondary: Post-graduate,560
+,,,Sub-Total,29461
+,Sub-Total,Secondary and below,No schooling,-
+,,,Pre-primary,52324
+,,,Primary,138693
+,,,Lower secondary,199403
+,,,Upper secondary,394879
+,,,Matriculation (including Technician level),61564
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,846863
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,813
+,,,Post-secondary: Diploma/ Certificate,18643
+,,,Post-secondary: Sub-degree course,14958
+,,,Post-secondary: Degree course,74075
+,,,Post-secondary: Post-graduate,26971
+,,,Total,135460
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,104
+,,,Post-secondary: Diploma/ Certificate,3914
+,,,Post-secondary: Sub-degree course,2736
+,,,Post-secondary: Degree course,19664
+,,,Post-secondary: Post-graduate,7141
+,,,Total,33559
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,8110
+,,,Post-secondary: Sub-degree course,4610
+,,,Post-secondary: Degree course,21276
+,,,Post-secondary: Post-graduate,10175
+,,,Total,44171
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,510
+,,,Post-secondary: Diploma/ Certificate,51376
+,,,Post-secondary: Sub-degree course,32497
+,,,Post-secondary: Degree course,140658
+,,,Post-secondary: Post-graduate,33239
+,,,Total,258280
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,135
+,,,Post-secondary: Diploma/ Certificate,4610
+,,,Post-secondary: Sub-degree course,2972
+,,,Post-secondary: Degree course,13753
+,,,Post-secondary: Post-graduate,4068
+,,,Total,25538
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,8951
+,,,Post-secondary: Sub-degree course,4909
+,,,Post-secondary: Degree course,21675
+,,,Post-secondary: Post-graduate,8366
+,,,Total,43901
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,243
+,,,Post-secondary: Diploma/ Certificate,6142
+,,,Post-secondary: Sub-degree course,3846
+,,,Post-secondary: Degree course,16128
+,,,Post-secondary: Post-graduate,5872
+,,,Total,32231
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,145
+,,,Post-secondary: Diploma/ Certificate,3395
+,,,Post-secondary: Sub-degree course,2205
+,,,Post-secondary: Degree course,10386
+,,,Post-secondary: Post-graduate,3700
+,,,Total,19831
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,469
+,,,Post-secondary: Diploma/ Certificate,3785
+,,,Post-secondary: Sub-degree course,2916
+,,,Post-secondary: Degree course,4357
+,,,Post-secondary: Post-graduate,676
+,,,Total,12203
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,1505
+,,,Post-secondary: Diploma/ Certificate,11720
+,,,Post-secondary: Sub-degree course,7961
+,,,Post-secondary: Degree course,32070
+,,,Post-secondary: Post-graduate,11529
+,,,Total,64785
+,,No schooling,No schooling,18612
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,18612
+,,Sub-Total,No schooling,18612
+,,,Pre-primary,52324
+,,,Primary,138693
+,,,Lower secondary,199403
+,,,Upper secondary,394879
+,,,Matriculation (including Technician level),61564
+,,,Craft level education,3924
+,,,Post-secondary: Diploma/ Certificate,120646
+,,,Post-secondary: Sub-degree course,79610
+,,,Post-secondary: Degree course,354042
+,,,Post-secondary: Post-graduate,111737
+,,,Sub-Total,1535434
+Total,15 - 19,Secondary and below,No schooling,-
+,,,Pre-primary,69
+,,,Primary,1621
+,,,Lower secondary,20953
+,,,Upper secondary,18447
+,,,Matriculation (including Technician level),331
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,41421
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,46
+,,,Post-secondary: Diploma/ Certificate,859
+,,,Post-secondary: Sub-degree course,486
+,,,Post-secondary: Degree course,825
+,,,Post-secondary: Post-graduate,12
+,,,Total,2228
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,203
+,,,Post-secondary: Sub-degree course,64
+,,,Post-secondary: Degree course,314
+,,,Post-secondary: Post-graduate,-
+,,,Total,581
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,119
+,,,Post-secondary: Sub-degree course,67
+,,,Post-secondary: Degree course,85
+,,,Post-secondary: Post-graduate,-
+,,,Total,271
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1007
+,,,Post-secondary: Sub-degree course,436
+,,,Post-secondary: Degree course,1102
+,,,Post-secondary: Post-graduate,-
+,,,Total,2545
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,246
+,,,Post-secondary: Sub-degree course,176
+,,,Post-secondary: Degree course,100
+,,,Post-secondary: Post-graduate,-
+,,,Total,522
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,288
+,,,Post-secondary: Sub-degree course,134
+,,,Post-secondary: Degree course,174
+,,,Post-secondary: Post-graduate,-
+,,,Total,596
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,30
+,,,Post-secondary: Diploma/ Certificate,367
+,,,Post-secondary: Sub-degree course,218
+,,,Post-secondary: Degree course,306
+,,,Post-secondary: Post-graduate,-
+,,,Total,921
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,34
+,,,Post-secondary: Diploma/ Certificate,359
+,,,Post-secondary: Sub-degree course,169
+,,,Post-secondary: Degree course,258
+,,,Post-secondary: Post-graduate,-
+,,,Total,820
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,41
+,,,Post-secondary: Sub-degree course,22
+,,,Post-secondary: Degree course,13
+,,,Post-secondary: Post-graduate,-
+,,,Total,76
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,144
+,,,Post-secondary: Diploma/ Certificate,708
+,,,Post-secondary: Sub-degree course,355
+,,,Post-secondary: Degree course,327
+,,,Post-secondary: Post-graduate,-
+,,,Total,1534
+,,No schooling,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,-
+,,Total,No schooling,-
+,,,Pre-primary,69
+,,,Primary,1621
+,,,Lower secondary,20953
+,,,Upper secondary,18447
+,,,Matriculation (including Technician level),331
+,,,Craft level education,254
+,,,Post-secondary: Diploma/ Certificate,4197
+,,,Post-secondary: Sub-degree course,2127
+,,,Post-secondary: Degree course,3504
+,,,Post-secondary: Post-graduate,12
+,,,Total,51515
+,20 - 24,Secondary and below,No schooling,-
+,,,Pre-primary,188
+,,,Primary,2801
+,,,Lower secondary,18476
+,,,Upper secondary,69806
+,,,Matriculation (including Technician level),7078
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,98349
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,104
+,,,Post-secondary: Diploma/ Certificate,6085
+,,,Post-secondary: Sub-degree course,5459
+,,,Post-secondary: Degree course,14057
+,,,Post-secondary: Post-graduate,946
+,,,Total,26651
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1493
+,,,Post-secondary: Sub-degree course,1222
+,,,Post-secondary: Degree course,5389
+,,,Post-secondary: Post-graduate,308
+,,,Total,8412
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1687
+,,,Post-secondary: Sub-degree course,1015
+,,,Post-secondary: Degree course,1791
+,,,Post-secondary: Post-graduate,235
+,,,Total,4728
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,42
+,,,Post-secondary: Diploma/ Certificate,9074
+,,,Post-secondary: Sub-degree course,6747
+,,,Post-secondary: Degree course,25666
+,,,Post-secondary: Post-graduate,1219
+,,,Total,42748
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,67
+,,,Post-secondary: Diploma/ Certificate,2695
+,,,Post-secondary: Sub-degree course,1937
+,,,Post-secondary: Degree course,4121
+,,,Post-secondary: Post-graduate,299
+,,,Total,9119
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,2262
+,,,Post-secondary: Sub-degree course,1484
+,,,Post-secondary: Degree course,3395
+,,,Post-secondary: Post-graduate,45
+,,,Total,7186
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,229
+,,,Post-secondary: Diploma/ Certificate,3821
+,,,Post-secondary: Sub-degree course,3109
+,,,Post-secondary: Degree course,5478
+,,,Post-secondary: Post-graduate,381
+,,,Total,13018
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,280
+,,,Post-secondary: Diploma/ Certificate,3674
+,,,Post-secondary: Sub-degree course,1895
+,,,Post-secondary: Degree course,4057
+,,,Post-secondary: Post-graduate,402
+,,,Total,10308
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,45
+,,,Post-secondary: Diploma/ Certificate,426
+,,,Post-secondary: Sub-degree course,425
+,,,Post-secondary: Degree course,577
+,,,Post-secondary: Post-graduate,62
+,,,Total,1535
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,515
+,,,Post-secondary: Diploma/ Certificate,4523
+,,,Post-secondary: Sub-degree course,3860
+,,,Post-secondary: Degree course,6791
+,,,Post-secondary: Post-graduate,529
+,,,Total,16218
+,,No schooling,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,-
+,,Total,No schooling,-
+,,,Pre-primary,188
+,,,Primary,2801
+,,,Lower secondary,18476
+,,,Upper secondary,69806
+,,,Matriculation (including Technician level),7078
+,,,Craft level education,1282
+,,,Post-secondary: Diploma/ Certificate,35740
+,,,Post-secondary: Sub-degree course,27153
+,,,Post-secondary: Degree course,71322
+,,,Post-secondary: Post-graduate,4426
+,,,Total,238272
+,25 - 29,Secondary and below,No schooling,-
+,,,Pre-primary,482
+,,,Primary,4504
+,,,Lower secondary,23543
+,,,Upper secondary,75138
+,,,Matriculation (including Technician level),14910
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,118577
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,116
+,,,Post-secondary: Diploma/ Certificate,6481
+,,,Post-secondary: Sub-degree course,6167
+,,,Post-secondary: Degree course,28429
+,,,Post-secondary: Post-graduate,6117
+,,,Total,47310
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,40
+,,,Post-secondary: Diploma/ Certificate,1606
+,,,Post-secondary: Sub-degree course,1278
+,,,Post-secondary: Degree course,10760
+,,,Post-secondary: Post-graduate,2808
+,,,Total,16492
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1671
+,,,Post-secondary: Sub-degree course,1046
+,,,Post-secondary: Degree course,5028
+,,,Post-secondary: Post-graduate,1571
+,,,Total,9316
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,102
+,,,Post-secondary: Diploma/ Certificate,13455
+,,,Post-secondary: Sub-degree course,9792
+,,,Post-secondary: Degree course,56405
+,,,Post-secondary: Post-graduate,7652
+,,,Total,87406
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,78
+,,,Post-secondary: Diploma/ Certificate,3994
+,,,Post-secondary: Sub-degree course,2672
+,,,Post-secondary: Degree course,9302
+,,,Post-secondary: Post-graduate,1729
+,,,Total,17775
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,2182
+,,,Post-secondary: Sub-degree course,1494
+,,,Post-secondary: Degree course,7497
+,,,Post-secondary: Post-graduate,1388
+,,,Total,12561
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,208
+,,,Post-secondary: Diploma/ Certificate,3800
+,,,Post-secondary: Sub-degree course,2687
+,,,Post-secondary: Degree course,9887
+,,,Post-secondary: Post-graduate,3196
+,,,Total,19778
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,191
+,,,Post-secondary: Diploma/ Certificate,3228
+,,,Post-secondary: Sub-degree course,2383
+,,,Post-secondary: Degree course,9505
+,,,Post-secondary: Post-graduate,2040
+,,,Total,17347
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,85
+,,,Post-secondary: Diploma/ Certificate,768
+,,,Post-secondary: Sub-degree course,595
+,,,Post-secondary: Degree course,1578
+,,,Post-secondary: Post-graduate,126
+,,,Total,3152
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,486
+,,,Post-secondary: Diploma/ Certificate,4657
+,,,Post-secondary: Sub-degree course,2975
+,,,Post-secondary: Degree course,12326
+,,,Post-secondary: Post-graduate,3364
+,,,Total,23808
+,,No schooling,No schooling,30
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,30
+,,Total,No schooling,30
+,,,Pre-primary,482
+,,,Primary,4504
+,,,Lower secondary,23543
+,,,Upper secondary,75138
+,,,Matriculation (including Technician level),14910
+,,,Craft level education,1306
+,,,Post-secondary: Diploma/ Certificate,41842
+,,,Post-secondary: Sub-degree course,31089
+,,,Post-secondary: Degree course,150717
+,,,Post-secondary: Post-graduate,29991
+,,,Total,373552
+,30 - 34,Secondary and below,No schooling,-
+,,,Pre-primary,1004
+,,,Primary,8158
+,,,Lower secondary,33150
+,,,Upper secondary,91706
+,,,Matriculation (including Technician level),15926
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,149944
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,311
+,,,Post-secondary: Diploma/ Certificate,5605
+,,,Post-secondary: Sub-degree course,4453
+,,,Post-secondary: Degree course,21898
+,,,Post-secondary: Post-graduate,9304
+,,,Total,41571
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,47
+,,,Post-secondary: Diploma/ Certificate,1234
+,,,Post-secondary: Sub-degree course,719
+,,,Post-secondary: Degree course,8753
+,,,Post-secondary: Post-graduate,4353
+,,,Total,15106
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1178
+,,,Post-secondary: Sub-degree course,736
+,,,Post-secondary: Degree course,4495
+,,,Post-secondary: Post-graduate,2862
+,,,Total,9271
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,114
+,,,Post-secondary: Diploma/ Certificate,12365
+,,,Post-secondary: Sub-degree course,8575
+,,,Post-secondary: Degree course,52604
+,,,Post-secondary: Post-graduate,11960
+,,,Total,85618
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,96
+,,,Post-secondary: Diploma/ Certificate,3825
+,,,Post-secondary: Sub-degree course,2867
+,,,Post-secondary: Degree course,11635
+,,,Post-secondary: Post-graduate,3410
+,,,Total,21833
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1516
+,,,Post-secondary: Sub-degree course,634
+,,,Post-secondary: Degree course,5250
+,,,Post-secondary: Post-graduate,2730
+,,,Total,10130
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,345
+,,,Post-secondary: Diploma/ Certificate,3707
+,,,Post-secondary: Sub-degree course,2213
+,,,Post-secondary: Degree course,10489
+,,,Post-secondary: Post-graduate,4138
+,,,Total,20892
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,366
+,,,Post-secondary: Diploma/ Certificate,3164
+,,,Post-secondary: Sub-degree course,2156
+,,,Post-secondary: Degree course,8850
+,,,Post-secondary: Post-graduate,3547
+,,,Total,18083
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,60
+,,,Post-secondary: Diploma/ Certificate,1030
+,,,Post-secondary: Sub-degree course,968
+,,,Post-secondary: Degree course,1376
+,,,Post-secondary: Post-graduate,279
+,,,Total,3713
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,564
+,,,Post-secondary: Diploma/ Certificate,2906
+,,,Post-secondary: Sub-degree course,2439
+,,,Post-secondary: Degree course,10308
+,,,Post-secondary: Post-graduate,4409
+,,,Total,20626
+,,No schooling,No schooling,41
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,41
+,,Total,No schooling,41
+,,,Pre-primary,1004
+,,,Primary,8158
+,,,Lower secondary,33150
+,,,Upper secondary,91706
+,,,Matriculation (including Technician level),15926
+,,,Craft level education,1903
+,,,Post-secondary: Diploma/ Certificate,36530
+,,,Post-secondary: Sub-degree course,25760
+,,,Post-secondary: Degree course,135658
+,,,Post-secondary: Post-graduate,46992
+,,,Total,396828
+,35 - 39,Secondary and below,No schooling,-
+,,,Pre-primary,1912
+,,,Primary,15166
+,,,Lower secondary,48716
+,,,Upper secondary,91621
+,,,Matriculation (including Technician level),16587
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,174002
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,191
+,,,Post-secondary: Diploma/ Certificate,3357
+,,,Post-secondary: Sub-degree course,2763
+,,,Post-secondary: Degree course,14714
+,,,Post-secondary: Post-graduate,7985
+,,,Total,29010
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,20
+,,,Post-secondary: Diploma/ Certificate,902
+,,,Post-secondary: Sub-degree course,627
+,,,Post-secondary: Degree course,6768
+,,,Post-secondary: Post-graduate,3793
+,,,Total,12110
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1483
+,,,Post-secondary: Sub-degree course,726
+,,,Post-secondary: Degree course,4819
+,,,Post-secondary: Post-graduate,2843
+,,,Total,9871
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,64
+,,,Post-secondary: Diploma/ Certificate,10563
+,,,Post-secondary: Sub-degree course,6395
+,,,Post-secondary: Degree course,38980
+,,,Post-secondary: Post-graduate,13082
+,,,Total,69084
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,46
+,,,Post-secondary: Diploma/ Certificate,2820
+,,,Post-secondary: Sub-degree course,1966
+,,,Post-secondary: Degree course,13175
+,,,Post-secondary: Post-graduate,4371
+,,,Total,22378
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1199
+,,,Post-secondary: Sub-degree course,568
+,,,Post-secondary: Degree course,3657
+,,,Post-secondary: Post-graduate,2693
+,,,Total,8117
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,355
+,,,Post-secondary: Diploma/ Certificate,3603
+,,,Post-secondary: Sub-degree course,2038
+,,,Post-secondary: Degree course,8592
+,,,Post-secondary: Post-graduate,3877
+,,,Total,18465
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,520
+,,,Post-secondary: Diploma/ Certificate,3580
+,,,Post-secondary: Sub-degree course,2143
+,,,Post-secondary: Degree course,8979
+,,,Post-secondary: Post-graduate,3946
+,,,Total,19168
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,28
+,,,Post-secondary: Diploma/ Certificate,856
+,,,Post-secondary: Sub-degree course,712
+,,,Post-secondary: Degree course,1222
+,,,Post-secondary: Post-graduate,283
+,,,Total,3101
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,642
+,,,Post-secondary: Diploma/ Certificate,2193
+,,,Post-secondary: Sub-degree course,1316
+,,,Post-secondary: Degree course,6677
+,,,Post-secondary: Post-graduate,3773
+,,,Total,14601
+,,No schooling,No schooling,118
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,118
+,,Total,No schooling,118
+,,,Pre-primary,1912
+,,,Primary,15166
+,,,Lower secondary,48716
+,,,Upper secondary,91621
+,,,Matriculation (including Technician level),16587
+,,,Craft level education,1866
+,,,Post-secondary: Diploma/ Certificate,30556
+,,,Post-secondary: Sub-degree course,19254
+,,,Post-secondary: Degree course,107583
+,,,Post-secondary: Post-graduate,46646
+,,,Total,380025
+,40 - 44,Secondary and below,No schooling,-
+,,,Pre-primary,6267
+,,,Primary,29344
+,,,Lower secondary,72713
+,,,Upper secondary,102907
+,,,Matriculation (including Technician level),14873
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,226104
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,192
+,,,Post-secondary: Diploma/ Certificate,3070
+,,,Post-secondary: Sub-degree course,2090
+,,,Post-secondary: Degree course,12995
+,,,Post-secondary: Post-graduate,6313
+,,,Total,24660
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,23
+,,,Post-secondary: Diploma/ Certificate,892
+,,,Post-secondary: Sub-degree course,653
+,,,Post-secondary: Degree course,6678
+,,,Post-secondary: Post-graduate,2892
+,,,Total,11138
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1184
+,,,Post-secondary: Sub-degree course,692
+,,,Post-secondary: Degree course,3602
+,,,Post-secondary: Post-graduate,2432
+,,,Total,7910
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,52
+,,,Post-secondary: Diploma/ Certificate,9767
+,,,Post-secondary: Sub-degree course,5681
+,,,Post-secondary: Degree course,30797
+,,,Post-secondary: Post-graduate,13900
+,,,Total,60197
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,62
+,,,Post-secondary: Diploma/ Certificate,1992
+,,,Post-secondary: Sub-degree course,1378
+,,,Post-secondary: Degree course,9402
+,,,Post-secondary: Post-graduate,3898
+,,,Total,16732
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1211
+,,,Post-secondary: Sub-degree course,611
+,,,Post-secondary: Degree course,3640
+,,,Post-secondary: Post-graduate,2041
+,,,Total,7503
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,278
+,,,Post-secondary: Diploma/ Certificate,2979
+,,,Post-secondary: Sub-degree course,1747
+,,,Post-secondary: Degree course,6497
+,,,Post-secondary: Post-graduate,3371
+,,,Total,14872
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,737
+,,,Post-secondary: Diploma/ Certificate,3173
+,,,Post-secondary: Sub-degree course,2045
+,,,Post-secondary: Degree course,7258
+,,,Post-secondary: Post-graduate,3069
+,,,Total,16282
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,121
+,,,Post-secondary: Diploma/ Certificate,776
+,,,Post-secondary: Sub-degree course,620
+,,,Post-secondary: Degree course,824
+,,,Post-secondary: Post-graduate,171
+,,,Total,2512
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,487
+,,,Post-secondary: Diploma/ Certificate,1890
+,,,Post-secondary: Sub-degree course,1322
+,,,Post-secondary: Degree course,5377
+,,,Post-secondary: Post-graduate,3010
+,,,Total,12086
+,,No schooling,No schooling,262
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,262
+,,Total,No schooling,262
+,,,Pre-primary,6267
+,,,Primary,29344
+,,,Lower secondary,72713
+,,,Upper secondary,102907
+,,,Matriculation (including Technician level),14873
+,,,Craft level education,1952
+,,,Post-secondary: Diploma/ Certificate,26934
+,,,Post-secondary: Sub-degree course,16839
+,,,Post-secondary: Degree course,87070
+,,,Post-secondary: Post-graduate,41097
+,,,Total,400258
+,45 - 49,Secondary and below,No schooling,-
+,,,Pre-primary,11037
+,,,Primary,39107
+,,,Lower secondary,79578
+,,,Upper secondary,116516
+,,,Matriculation (including Technician level),14800
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,261038
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,264
+,,,Post-secondary: Diploma/ Certificate,2710
+,,,Post-secondary: Sub-degree course,1798
+,,,Post-secondary: Degree course,10743
+,,,Post-secondary: Post-graduate,4824
+,,,Total,20339
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,23
+,,,Post-secondary: Diploma/ Certificate,894
+,,,Post-secondary: Sub-degree course,524
+,,,Post-secondary: Degree course,4162
+,,,Post-secondary: Post-graduate,2260
+,,,Total,7863
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1136
+,,,Post-secondary: Sub-degree course,611
+,,,Post-secondary: Degree course,2930
+,,,Post-secondary: Post-graduate,2257
+,,,Total,6934
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,169
+,,,Post-secondary: Diploma/ Certificate,9538
+,,,Post-secondary: Sub-degree course,5373
+,,,Post-secondary: Degree course,24704
+,,,Post-secondary: Post-graduate,12850
+,,,Total,52634
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,77
+,,,Post-secondary: Diploma/ Certificate,1691
+,,,Post-secondary: Sub-degree course,1000
+,,,Post-secondary: Degree course,6027
+,,,Post-secondary: Post-graduate,2318
+,,,Total,11113
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1420
+,,,Post-secondary: Sub-degree course,681
+,,,Post-secondary: Degree course,3784
+,,,Post-secondary: Post-graduate,1807
+,,,Total,7692
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,231
+,,,Post-secondary: Diploma/ Certificate,2027
+,,,Post-secondary: Sub-degree course,1298
+,,,Post-secondary: Degree course,4936
+,,,Post-secondary: Post-graduate,1769
+,,,Total,10261
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,719
+,,,Post-secondary: Diploma/ Certificate,3410
+,,,Post-secondary: Sub-degree course,2037
+,,,Post-secondary: Degree course,5982
+,,,Post-secondary: Post-graduate,2741
+,,,Total,14889
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,228
+,,,Post-secondary: Diploma/ Certificate,918
+,,,Post-secondary: Sub-degree course,664
+,,,Post-secondary: Degree course,944
+,,,Post-secondary: Post-graduate,209
+,,,Total,2963
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,588
+,,,Post-secondary: Diploma/ Certificate,1565
+,,,Post-secondary: Sub-degree course,822
+,,,Post-secondary: Degree course,4055
+,,,Post-secondary: Post-graduate,2341
+,,,Total,9371
+,,No schooling,No schooling,409
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,409
+,,Total,No schooling,409
+,,,Pre-primary,11037
+,,,Primary,39107
+,,,Lower secondary,79578
+,,,Upper secondary,116516
+,,,Matriculation (including Technician level),14800
+,,,Craft level education,2299
+,,,Post-secondary: Diploma/ Certificate,25309
+,,,Post-secondary: Sub-degree course,14808
+,,,Post-secondary: Degree course,68267
+,,,Post-secondary: Post-graduate,33376
+,,,Total,405506
+,50 - 54,Secondary and below,No schooling,-
+,,,Pre-primary,17331
+,,,Primary,66803
+,,,Lower secondary,85066
+,,,Upper secondary,128803
+,,,Matriculation (including Technician level),20857
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,318860
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,230
+,,,Post-secondary: Diploma/ Certificate,2787
+,,,Post-secondary: Sub-degree course,1669
+,,,Post-secondary: Degree course,8788
+,,,Post-secondary: Post-graduate,4630
+,,,Total,18104
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,9
+,,,Post-secondary: Diploma/ Certificate,716
+,,,Post-secondary: Sub-degree course,472
+,,,Post-secondary: Degree course,3597
+,,,Post-secondary: Post-graduate,1420
+,,,Total,6214
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1375
+,,,Post-secondary: Sub-degree course,680
+,,,Post-secondary: Degree course,2950
+,,,Post-secondary: Post-graduate,1663
+,,,Total,6668
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,48
+,,,Post-secondary: Diploma/ Certificate,8930
+,,,Post-secondary: Sub-degree course,5677
+,,,Post-secondary: Degree course,17602
+,,,Post-secondary: Post-graduate,10107
+,,,Total,42364
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,86
+,,,Post-secondary: Diploma/ Certificate,1215
+,,,Post-secondary: Sub-degree course,874
+,,,Post-secondary: Degree course,4373
+,,,Post-secondary: Post-graduate,1550
+,,,Total,8098
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1674
+,,,Post-secondary: Sub-degree course,755
+,,,Post-secondary: Degree course,3755
+,,,Post-secondary: Post-graduate,2044
+,,,Total,8228
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,294
+,,,Post-secondary: Diploma/ Certificate,2662
+,,,Post-secondary: Sub-degree course,1241
+,,,Post-secondary: Degree course,3670
+,,,Post-secondary: Post-graduate,1611
+,,,Total,9478
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,1050
+,,,Post-secondary: Diploma/ Certificate,3475
+,,,Post-secondary: Sub-degree course,2467
+,,,Post-secondary: Degree course,4848
+,,,Post-secondary: Post-graduate,1900
+,,,Total,13740
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,219
+,,,Post-secondary: Diploma/ Certificate,1111
+,,,Post-secondary: Sub-degree course,785
+,,,Post-secondary: Degree course,553
+,,,Post-secondary: Post-graduate,318
+,,,Total,2986
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,397
+,,,Post-secondary: Diploma/ Certificate,1655
+,,,Post-secondary: Sub-degree course,1218
+,,,Post-secondary: Degree course,3873
+,,,Post-secondary: Post-graduate,1964
+,,,Total,9107
+,,No schooling,No schooling,7387
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,7387
+,,Total,No schooling,7387
+,,,Pre-primary,17331
+,,,Primary,66803
+,,,Lower secondary,85066
+,,,Upper secondary,128803
+,,,Matriculation (including Technician level),20857
+,,,Craft level education,2333
+,,,Post-secondary: Diploma/ Certificate,25600
+,,,Post-secondary: Sub-degree course,15838
+,,,Post-secondary: Degree course,54009
+,,,Post-secondary: Post-graduate,27207
+,,,Total,451234
+,55 - 59,Secondary and below,No schooling,-
+,,,Pre-primary,29562
+,,,Primary,88026
+,,,Lower secondary,74949
+,,,Upper secondary,94193
+,,,Matriculation (including Technician level),15948
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,302678
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,122
+,,,Post-secondary: Diploma/ Certificate,1338
+,,,Post-secondary: Sub-degree course,1231
+,,,Post-secondary: Degree course,5175
+,,,Post-secondary: Post-graduate,3203
+,,,Total,11069
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,17
+,,,Post-secondary: Diploma/ Certificate,544
+,,,Post-secondary: Sub-degree course,370
+,,,Post-secondary: Degree course,2095
+,,,Post-secondary: Post-graduate,763
+,,,Total,3789
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,692
+,,,Post-secondary: Sub-degree course,485
+,,,Post-secondary: Degree course,1546
+,,,Post-secondary: Post-graduate,1321
+,,,Total,4044
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,58
+,,,Post-secondary: Diploma/ Certificate,5658
+,,,Post-secondary: Sub-degree course,3545
+,,,Post-secondary: Degree course,9769
+,,,Post-secondary: Post-graduate,6802
+,,,Total,25832
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,14
+,,,Post-secondary: Diploma/ Certificate,661
+,,,Post-secondary: Sub-degree course,432
+,,,Post-secondary: Degree course,1851
+,,,Post-secondary: Post-graduate,780
+,,,Total,3738
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1107
+,,,Post-secondary: Sub-degree course,482
+,,,Post-secondary: Degree course,2221
+,,,Post-secondary: Post-graduate,1100
+,,,Total,4910
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,244
+,,,Post-secondary: Diploma/ Certificate,2527
+,,,Post-secondary: Sub-degree course,1231
+,,,Post-secondary: Degree course,3209
+,,,Post-secondary: Post-graduate,1575
+,,,Total,8786
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,607
+,,,Post-secondary: Diploma/ Certificate,2740
+,,,Post-secondary: Sub-degree course,1767
+,,,Post-secondary: Degree course,3292
+,,,Post-secondary: Post-graduate,1378
+,,,Total,9784
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,82
+,,,Post-secondary: Diploma/ Certificate,664
+,,,Post-secondary: Sub-degree course,399
+,,,Post-secondary: Degree course,260
+,,,Post-secondary: Post-graduate,81
+,,,Total,1486
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,566
+,,,Post-secondary: Diploma/ Certificate,1213
+,,,Post-secondary: Sub-degree course,811
+,,,Post-secondary: Degree course,2515
+,,,Post-secondary: Post-graduate,1150
+,,,Total,6255
+,,No schooling,No schooling,10100
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,10100
+,,Total,No schooling,10100
+,,,Pre-primary,29562
+,,,Primary,88026
+,,,Lower secondary,74949
+,,,Upper secondary,94193
+,,,Matriculation (including Technician level),15948
+,,,Craft level education,1710
+,,,Post-secondary: Diploma/ Certificate,17144
+,,,Post-secondary: Sub-degree course,10753
+,,,Post-secondary: Degree course,31933
+,,,Post-secondary: Post-graduate,18153
+,,,Total,392471
+,60 - 64,Secondary and below,No schooling,-
+,,,Pre-primary,27392
+,,,Primary,63170
+,,,Lower secondary,40980
+,,,Upper secondary,38699
+,,,Matriculation (including Technician level),6575
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,176816
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,72
+,,,Post-secondary: Diploma/ Certificate,948
+,,,Post-secondary: Sub-degree course,449
+,,,Post-secondary: Degree course,2475
+,,,Post-secondary: Post-graduate,1227
+,,,Total,5171
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,11
+,,,Post-secondary: Diploma/ Certificate,177
+,,,Post-secondary: Sub-degree course,144
+,,,Post-secondary: Degree course,1144
+,,,Post-secondary: Post-graduate,299
+,,,Total,1775
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,380
+,,,Post-secondary: Sub-degree course,207
+,,,Post-secondary: Degree course,740
+,,,Post-secondary: Post-graduate,311
+,,,Total,1638
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,84
+,,,Post-secondary: Diploma/ Certificate,2327
+,,,Post-secondary: Sub-degree course,1334
+,,,Post-secondary: Degree course,4526
+,,,Post-secondary: Post-graduate,2639
+,,,Total,10910
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,11
+,,,Post-secondary: Diploma/ Certificate,233
+,,,Post-secondary: Sub-degree course,84
+,,,Post-secondary: Degree course,449
+,,,Post-secondary: Post-graduate,147
+,,,Total,924
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,482
+,,,Post-secondary: Sub-degree course,336
+,,,Post-secondary: Degree course,944
+,,,Post-secondary: Post-graduate,503
+,,,Total,2265
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,202
+,,,Post-secondary: Diploma/ Certificate,794
+,,,Post-secondary: Sub-degree course,622
+,,,Post-secondary: Degree course,1326
+,,,Post-secondary: Post-graduate,533
+,,,Total,3477
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,269
+,,,Post-secondary: Diploma/ Certificate,1039
+,,,Post-secondary: Sub-degree course,694
+,,,Post-secondary: Degree course,1832
+,,,Post-secondary: Post-graduate,410
+,,,Total,4244
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,68
+,,,Post-secondary: Diploma/ Certificate,139
+,,,Post-secondary: Sub-degree course,131
+,,,Post-secondary: Degree course,190
+,,,Post-secondary: Post-graduate,52
+,,,Total,580
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,328
+,,,Post-secondary: Diploma/ Certificate,350
+,,,Post-secondary: Sub-degree course,363
+,,,Post-secondary: Degree course,1118
+,,,Post-secondary: Post-graduate,850
+,,,Total,3009
+,,No schooling,No schooling,9856
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,9856
+,,Total,No schooling,9856
+,,,Pre-primary,27392
+,,,Primary,63170
+,,,Lower secondary,40980
+,,,Upper secondary,38699
+,,,Matriculation (including Technician level),6575
+,,,Craft level education,1045
+,,,Post-secondary: Diploma/ Certificate,6869
+,,,Post-secondary: Sub-degree course,4364
+,,,Post-secondary: Degree course,14744
+,,,Post-secondary: Post-graduate,6971
+,,,Total,220665
+,65+,Secondary and below,No schooling,-
+,,,Pre-primary,17396
+,,,Primary,31740
+,,,Lower secondary,20975
+,,,Upper secondary,19534
+,,,Matriculation (including Technician level),4683
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,94328
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,94
+,,,Post-secondary: Diploma/ Certificate,525
+,,,Post-secondary: Sub-degree course,541
+,,,Post-secondary: Degree course,1586
+,,,Post-secondary: Post-graduate,771
+,,,Total,3517
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,9
+,,,Post-secondary: Diploma/ Certificate,221
+,,,Post-secondary: Sub-degree course,140
+,,,Post-secondary: Degree course,1127
+,,,Post-secondary: Post-graduate,636
+,,,Total,2133
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,327
+,,,Post-secondary: Sub-degree course,287
+,,,Post-secondary: Degree course,671
+,,,Post-secondary: Post-graduate,246
+,,,Total,1531
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,1116
+,,,Post-secondary: Sub-degree course,726
+,,,Post-secondary: Degree course,2851
+,,,Post-secondary: Post-graduate,1396
+,,,Total,6089
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,13
+,,,Post-secondary: Diploma/ Certificate,138
+,,,Post-secondary: Sub-degree course,50
+,,,Post-secondary: Degree course,147
+,,,Post-secondary: Post-graduate,103
+,,,Total,451
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,179
+,,,Post-secondary: Sub-degree course,140
+,,,Post-secondary: Degree course,1296
+,,,Post-secondary: Post-graduate,328
+,,,Total,1943
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,134
+,,,Post-secondary: Diploma/ Certificate,525
+,,,Post-secondary: Sub-degree course,310
+,,,Post-secondary: Degree course,972
+,,,Post-secondary: Post-graduate,397
+,,,Total,2338
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,268
+,,,Post-secondary: Diploma/ Certificate,552
+,,,Post-secondary: Sub-degree course,437
+,,,Post-secondary: Degree course,1380
+,,,Post-secondary: Post-graduate,359
+,,,Total,2996
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,11
+,,,Post-secondary: Diploma/ Certificate,65
+,,,Post-secondary: Sub-degree course,209
+,,,Post-secondary: Degree course,81
+,,,Post-secondary: Post-graduate,7
+,,,Total,373
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,154
+,,,Post-secondary: Diploma/ Certificate,248
+,,,Post-secondary: Sub-degree course,138
+,,,Post-secondary: Degree course,906
+,,,Post-secondary: Post-graduate,271
+,,,Total,1717
+,,No schooling,No schooling,7075
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,7075
+,,Total,No schooling,7075
+,,,Pre-primary,17396
+,,,Primary,31740
+,,,Lower secondary,20975
+,,,Upper secondary,19534
+,,,Matriculation (including Technician level),4683
+,,,Craft level education,683
+,,,Post-secondary: Diploma/ Certificate,3896
+,,,Post-secondary: Sub-degree course,2978
+,,,Post-secondary: Degree course,11017
+,,,Post-secondary: Post-graduate,4514
+,,,Total,124491
+,Total,Secondary and below,No schooling,-
+,,,Pre-primary,112640
+,,,Primary,350440
+,,,Lower secondary,519099
+,,,Upper secondary,847370
+,,,Matriculation (including Technician level),132568
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,1962117
+,,Arts and social sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,1742
+,,,Post-secondary: Diploma/ Certificate,33765
+,,,Post-secondary: Sub-degree course,27106
+,,,Post-secondary: Degree course,121685
+,,,Post-secondary: Post-graduate,45332
+,,,Total,229630
+,,Pure sciences,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,199
+,,,Post-secondary: Diploma/ Certificate,8882
+,,,Post-secondary: Sub-degree course,6213
+,,,Post-secondary: Degree course,50787
+,,,Post-secondary: Post-graduate,19532
+,,,Total,85613
+,,Teacher training and education science,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,11232
+,,,Post-secondary: Sub-degree course,6552
+,,,Post-secondary: Degree course,28657
+,,,Post-secondary: Post-graduate,15741
+,,,Total,62182
+,,Business and commercial studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,733
+,,,Post-secondary: Diploma/ Certificate,83800
+,,,Post-secondary: Sub-degree course,54281
+,,,Post-secondary: Degree course,265006
+,,,Post-secondary: Post-graduate,81607
+,,,Total,485427
+,,Computer studies,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,550
+,,,Post-secondary: Diploma/ Certificate,19510
+,,,Post-secondary: Sub-degree course,13436
+,,,Post-secondary: Degree course,60582
+,,,Post-secondary: Post-graduate,18605
+,,,Total,112683
+,,Health,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,13520
+,,,Post-secondary: Sub-degree course,7319
+,,,Post-secondary: Degree course,35613
+,,,Post-secondary: Post-graduate,14679
+,,,Total,71131
+,,Architecture and construction engineering,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,2550
+,,,Post-secondary: Diploma/ Certificate,26812
+,,,Post-secondary: Sub-degree course,16714
+,,,Post-secondary: Degree course,55362
+,,,Post-secondary: Post-graduate,20848
+,,,Total,122286
+,,"Mechanical, electrical, electronic and marine engineering",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,5041
+,,,Post-secondary: Diploma/ Certificate,28394
+,,,Post-secondary: Sub-degree course,18193
+,,,Post-secondary: Degree course,56241
+,,,Post-secondary: Post-graduate,19792
+,,,Total,127661
+,,"Textiles, design and other industrial technology",No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,947
+,,,Post-secondary: Diploma/ Certificate,6794
+,,,Post-secondary: Sub-degree course,5530
+,,,Post-secondary: Degree course,7618
+,,,Post-secondary: Post-graduate,1588
+,,,Total,22477
+,,Others,No schooling,-
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,4871
+,,,Post-secondary: Diploma/ Certificate,21908
+,,,Post-secondary: Sub-degree course,15619
+,,,Post-secondary: Degree course,54273
+,,,Post-secondary: Post-graduate,21661
+,,,Total,118332
+,,No schooling,No schooling,35278
+,,,Pre-primary,-
+,,,Primary,-
+,,,Lower secondary,-
+,,,Upper secondary,-
+,,,Matriculation (including Technician level),-
+,,,Craft level education,-
+,,,Post-secondary: Diploma/ Certificate,-
+,,,Post-secondary: Sub-degree course,-
+,,,Post-secondary: Degree course,-
+,,,Post-secondary: Post-graduate,-
+,,,Total,35278
+,,Total,No schooling,35278
+,,,Pre-primary,112640
+,,,Primary,350440
+,,,Lower secondary,519099
+,,,Upper secondary,847370
+,,,Matriculation (including Technician level),132568
+,,,Craft level education,16633
+,,,Post-secondary: Diploma/ Certificate,254617
+,,,Post-secondary: Sub-degree course,170963
+,,,Post-secondary: Degree course,735824
+,,,Post-secondary: Post-graduate,259385
+,,,Total,3434817

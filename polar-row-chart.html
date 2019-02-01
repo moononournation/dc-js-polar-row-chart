@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/dc/3.0.10/dc.min.css" />
+    <style>
+        g text {
+            font: bold 14px sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Polar Row Chart Example</h1>
+    <h2>Potential Junior Employee</h2>
+    <p>Data source: bycensus2016.gov.hk</p>
+    <p>2016 Hong Kong By-census Working Population (Excluding Foreign Domestic Helpers)</p>
+
+    <div id="polar-row-chart"></div>
+    <div id="sunburst-chart"></div>
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dc/3.0.10/dc.min.js"></script>
+    <script src="js/polar-row-chart.js"></script>
+    <script>
+        const rainbow6 = ["#e44", "#e94", "#4e4", "#4dd", "#44e", "#d4d"];
+
+        let polarRowChart = dc.polarRowChart('#polar-row-chart');
+        let sunburstChart = dc.sunburstChart("#sunburst-chart");
+
+        d3.csv("csv/2016 Hong Kong By-census Working Population (Excluding Foreign Domestic Helpers).csv",
+            function (data) {
+                /* massage data */
+                var lastSex, lastEducationalAttainment, lastFieldOfEducation, lastWorkingAge, Population
+                data.forEach(function (d) {
+                    /* EducationalAttainment,FieldOfEducation,WorkingAge,Population */
+                    if (d.Sex == '') {
+                        d.Sex = lastSex;
+                    } else {
+                        lastSex = d.Sex;
+                    }
+                    if (d.EducationalAttainment == '') {
+                        d.EducationalAttainment = lastEducationalAttainment;
+                    } else {
+                        lastEducationalAttainment = d.EducationalAttainment;
+                    }
+                    if (d.FieldOfEducation == '') {
+                        d.FieldOfEducation = lastFieldOfEducation;
+                    } else {
+                        lastFieldOfEducation = d.FieldOfEducation;
+                    }
+                    if (d.WorkingAge == '') {
+                        d.WorkingAge = lastWorkingAge;
+                    } else {
+                        lastWorkingAge = d.WorkingAge;
+                    }
+                    if (
+                        (d.Population == '-')
+                        || (d.Sex == 'Total')
+                        || (d.EducationalAttainment == 'Total')
+                        || (d.EducationalAttainment == 'Sub-Total')
+                        || (d.FieldOfEducation == 'Total')
+                        || (d.FieldOfEducation == 'Sub-Total')
+                        || (d.WorkingAge == 'Total')
+                        || (d.WorkingAge == 'Sub-Total')
+                    ) {
+                        d.Population = 0;
+                    } else {
+                        d.Population = +d.Population;
+                    }
+                });
+                data = data.filter(function (d) { return d.Population; });
+
+                let ndx = crossfilter(data);
+
+                let statDimension = ndx.dimension(function (d) {
+                    return 'All';
+                });
+                let statGroup = statDimension.group().reduce(
+                    /* callback for when data is added to the current filter results */
+                    function (p, v) {
+                        p[0].value += v.Population;
+                        if (v.EducationalAttainment.indexOf('Post-secondary') >= 0) {
+                            p[1].value += v.Population;
+                        }
+                        if (
+                            (v.EducationalAttainment.indexOf('Post-secondary') >= 0)
+                            && ((v.WorkingAge == "15 - 19") || (v.WorkingAge == "20 - 24") || (v.WorkingAge == "25 - 29") || (v.WorkingAge == "30 - 34") || (v.WorkingAge == "35 - 39") || (v.WorkingAge == "40 - 44"))
+                        ) {
+                            p[2].value += v.Population;
+                        }
+                        if (
+                            (v.EducationalAttainment.indexOf('Post-secondary') >= 0)
+                            && ((v.WorkingAge == "15 - 19") || (v.WorkingAge == "20 - 24") || (v.WorkingAge == "25 - 29") || (v.WorkingAge == "30 - 34") || (v.WorkingAge == "35 - 39") || (v.WorkingAge == "40 - 44"))
+                            && (v.FieldOfEducation == "Computer studies")
+                        ) {
+                            p[3].value += v.Population;
+                        }
+                        return p;
+                    },
+                    /* callback for when data is removed from the current filter results */
+                    function (p, v) {
+                        p[0].value -= v.Population;
+                        if (v.EducationalAttainment.indexOf('Post-secondary') >= 0) {
+                            p[1].value -= v.Population;
+                        }
+                        if (
+                            (v.EducationalAttainment.indexOf('Post-secondary') >= 0)
+                            && ((v.WorkingAge == "15 - 19") || (v.WorkingAge == "20 - 24") || (v.WorkingAge == "25 - 29") || (v.WorkingAge == "30 - 34") || (v.WorkingAge == "35 - 39") || (v.WorkingAge == "40 - 44"))
+                        ) {
+                            p[2].value -= v.Population;
+                        }
+                        if (
+                            (v.EducationalAttainment.indexOf('Post-secondary') >= 0)
+                            && ((v.WorkingAge == "15 - 19") || (v.WorkingAge == "20 - 24") || (v.WorkingAge == "25 - 29") || (v.WorkingAge == "30 - 34") || (v.WorkingAge == "35 - 39") || (v.WorkingAge == "40 - 44"))
+                            && (v.FieldOfEducation == "Computer studies")
+                        ) {
+                            p[3].value -= v.Population;
+                        }
+                        return p;
+                    },
+                    /* initialize p */
+                    function () {
+                        return [
+                            { value: 0, key: "Working Population" },
+                            { value: 0, key: "Post-secondary" },
+                            { value: 0, key: "Age 15-44" },
+                            { value: 0, key: "Computer studies" },
+                        ];
+                    }
+                );
+                let sunburstDimension = ndx.dimension(function (d) {
+                    return [d.Sex, d.WorkingAge, d.EducationalAttainment, d.FieldOfEducation];
+                });
+                let sunburstGroup = sunburstDimension.group().reduceSum(function (d) {
+                    return d.Population;
+                });
+
+                polarRowChart
+                    .width(400)
+                    .height(400)
+                    .dimension(ndx)
+                    .group(statGroup)
+                    .ordinalColors(rainbow6);
+
+                sunburstChart
+                    .width(400)
+                    .height(400)
+                    .dimension(sunburstDimension)
+                    .group(sunburstGroup);
+
+                dc.renderAll();
+            });
+    </script>
+</body>
+
+</html>
